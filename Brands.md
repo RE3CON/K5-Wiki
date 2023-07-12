@@ -13,10 +13,10 @@ Label | Typ | Web
 
 
 
-.  |UV-K5 | UV-K5(2) | UV-K5(6) | UV-K5(8) | UV-K5(9) | UV-K5(11) | UV-K5(22) | UV-K5(66) | UV-K5(88) | UV-K5(99) | UV-5R | UV-5R PLUS |  UV-82
+.  | UV-K5 | UV-K5(2) | UV-K5(6) | UV-K5(8) | UV-K5(9) | UV-K5(11) | UV-K5(22) | UV-K5(66) | UV-K5(88) | UV-K5(99) | UV-5R | UV-5R PLUS |  UV-82
 -- |-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --  |  --  | --  |
 Name | UV-K5  |   |   | UV-K6 |   |   |   |   |   |     | |||
-Akku mAh |1600/(1400)|   |   | 2200  |   |   |   |   |     | |||
+Akku mAh |1600|   |   | 2200  |   |   |   |   |     | |||
 Power  | 5W  |   |   | 5W  |   |   |   |   |    | ||8W|
 USB-Carge  | yes  |   |   | yes  |   |   |   |   |    | ||Opt.|
 LCD Backcolor  | white  |   |   | amber  |   |   |   |   |    | | |blue|
