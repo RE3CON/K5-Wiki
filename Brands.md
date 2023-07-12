@@ -13,5 +13,12 @@ Label | Typ | Web
 
 
 
+UV-K5 | UV-K5(2) | UV-K5(6) | UV-K5(8) | UV-K5(9) | UV-K5(11) | UV-K5(22) | UV-K5(66) | UV-K5(88) | UV-K5(99)
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+UV-K5  |   |   | UV-K6 |   |   |   |   |   |  
+  |   |   |   |   |   |   |   |   |  
+
+
+
 
 <img width="785" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/e8d1e4f7-f298-4d7c-82e4-e81d903f9e13">
