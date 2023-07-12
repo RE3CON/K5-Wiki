@@ -18,7 +18,7 @@ Label | Typ | Web
 Name | UV-K5  |   |   | UV-K6 |   |   |   |   |   |     | |||
 Akku mAh |1600/(1400)|   |   | 2200  |   |   |   |   |     | |||
 Power  | 5W  |   |   | 5W  |   |   |   |   |    | ||8W|
-USB-Carge  | yes  |   |   | Opt.  |   |   |   |   |    | |||
+USB-Carge  | yes  |   |   | yes  |   |   |   |   |    | ||Opt.|
 LCD Backcolor  | white  |   |   | amber  |   |   |   |   |    | | |blue|
 FirmwareNrs ° | v2.* |   |   | v3.* |   |   |   |   |    |    |  |v4.* |
 
