@@ -25,7 +25,9 @@ Hardware | 1.00 |   |   | 1.00 |   |   |   |   |    |    |  |v4.* |
 Diffs |  |   |   | Sound ++ |   |   |   |   |    |    |  | |
 
 ° presumably
-++ Minimal differences in speaker line (2 capacitors)
+
+++ Minimal differences in speaker line (2 capacitors)<br>
+https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Hardware_Mods
 
 
 <img width="785" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/e8d1e4f7-f298-4d7c-82e4-e81d903f9e13">
