@@ -23,11 +23,9 @@ LCD Backcolor  | white  |   |   | amber  |   |   |   |   |    | | |blue
 FirmwareNrs ° | v2.* |   |   | v3.* |   |   |   |   |    |    |  |v4.* |
 Hardware | 1.00 |   |   | 1.00 |   |   |   |   |    |    |  |v4.* |
 Diffs |  |   |   | Sound ++ |   |   |   |   |    |    |  | |
+Case |<img width="50" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/041794f2-4eb5-4797-a996-63dce7b8086f">  |   |   | <img width="50" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/207db9d9-5172-459f-ba49-37b32d762f2f">|   |   |   |   |    |    |  |<img width="50" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/770efd56-47f0-4d62-b917-71396c20fbbf">
 
 ° presumably
 
 ++ Minimal differences in speaker line (2 capacitors)<br>
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Hardware_Mods
-
-
-<img width="785" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/e8d1e4f7-f298-4d7c-82e4-e81d903f9e13">
