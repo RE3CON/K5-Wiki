@@ -16,12 +16,12 @@ Label | Typ | Web
 Registered models | UV-K5 | UV-K5(2) | UV-K5(6) | UV-K5(8) | UV-K5(9) | UV-K5(11) | UV-K5(22) | UV-K5(66) | UV-K5(88) | UV-K5(99) | UV-5R | UV-5R PLUS |  UV-82
 -- |-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --  |  --  | --  |
 Name | UV-K5  |   |   | UV-K6 |   |   |   |   |   |     | |||
-Akku BPK5 (mAh) |1600 11,52Wh|   |   |2200 15,84Wh|   |   |   |   |     | |||
+Akku BPK5 (mAh) |1600 11,52Wh|   |   |1600 11,52Wh|   |   |   |   |     | ||2200 15,84Wh|
 Power  | 5W  |   |   | 5W  |   |   |   |   |    | ||8W|
 USB-Carge  | yes  |   |   | yes  |   |   |   |   |    | ||opt.|
 LCD Backcolor  | white  |   |   | amber  |   |   |   |   |    | | |blue|
 FirmwareNrs ° | v2.* |   |   | v3.* |   |   |   |   |    |    |  |v4.* |
-Hardware | 1.00 |   |   | 1.00 |   |   |   |   |    |    |  |v4.* |
+Hardware | 1.00 |   |   | 1.00 |   |   |   |   |    |    |  |1.00|
 Diffs |  |   |   | Sound ++ |   |   |   |   |    |    |  | |
 Case |<img width="50" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/041794f2-4eb5-4797-a996-63dce7b8086f">  |   |   | <img width="50" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/207db9d9-5172-459f-ba49-37b32d762f2f">|   |   |   |   |    |    |  |<img width="50" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/770efd56-47f0-4d62-b917-71396c20fbbf">
 
