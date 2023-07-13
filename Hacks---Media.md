@@ -17,6 +17,8 @@ https://github.com/Tunas1337/UV-K5-Modded-Firmwares/releases/tag/v0.1
 
 https://mikhail-yudin.ru/notes/quansheng-uv-k5-opyt-raboty/
 
+[YT Video: TROJAN Mods for the Quansheng UV-K5 from Chanel Ham Radio TX](https://www.youtube.com/watch?v=7O5WgxQj4wM)
+
 [YT Video: Open UV-K5, Tiago A Oliveira - PY4ROE](https://www.youtube.com/@PY4ROE)
 
 About BEKEN Chip:
