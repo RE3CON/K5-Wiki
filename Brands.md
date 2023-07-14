@@ -20,6 +20,7 @@ Akku BPK5 (mAh) |1600 11,52Wh|   |   |1600 11,52Wh|   |   |   |   |    
 Power  | 5W  |   |   | 5W  |   |   |   |   |    | ||8W|
 USB-Carge  | yes  |   |   | yes  |   |   |   |   |    | ||opt.|
 LCD Backcolor  | white  |   |   | amber  |   |   |   |   |    | | |blue|
+LCD Backcolor  | <img width="40" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/eaa33d37-414e-4214-92ff-4d6817d80e95"> |   |   | <img width="40" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/9afffd33-89af-4253-bd86-efe88ef3070e"> |   |   |   |   |    | | |<img width="40" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/883869ec-56e7-40c4-812d-70afceda5ddd">|
 FirmwareNrs ° | v2.* |   |   | v3.* |   |   |   |   |    |    |  |v4.* |
 Hardware | 1.00 |   |   | 1.00 |   |   |   |   |    |    |  |1.00|
 Diffs |  |   |   | Sound ++ |   |   |   |   |    |    |  | |
