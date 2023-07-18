@@ -40,7 +40,8 @@ XS5822 |   | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen Ch
 
 [All Datasheets are stored on Github from amnemonic](https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware)
 
-![QS_UV_K5_export_7](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/d2ca9610-05e0-43fc-9c43-d7c07d9651ad)
+
+![QS_UV_K5_export_8](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/591e4815-f450-4e2a-8b4a-b4735a363d80)
 
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/QS_UV_K5_export_7.svg
 
