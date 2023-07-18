@@ -32,15 +32,19 @@ ST7565R |   | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   
 TY |   |   | 1SS241 | 2 |   |   |   |   |   |  
 TY |   | Zenerdiode 20V | BZX84J-C20 TY | 2 |   | NXP |   |   |   |  
 UD |   | Diode | KDS114E | 2 | SOD-323F | KEC | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/UD_KDS114E_Diode_KEC_Datasheet.pdf |   |   |  
-UW | A |   |   | 3 | SOT89 |   |   |   |   |  
-WA |   | Zenerdiode 1,0V | PZU10*A/DG | 2 |   | NXP |   | 1,0V |   |  
+UW | A | N-Channel Fet | 2SK3078 | 3 | SOT89 | Toshiba | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/UW_2SK3078_Toshiba_Datasheet.PDF |   |   |  
+WA |   | Zenerdiode 1,0V |   | 2 |   | NXP |   | 1,0V |   |  
 WD |   | Zenerdiode 8,2V | BZT52C8V2 | 2 |   | NXP |   | 8,2V |   |  
 WL |   | Zenerdiode 1,2V | PZU12*A/DG | 2 |   | NXP |   | 1,2V |   |  
-XS5822 |   | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |  
+XS5822 |   | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |   |   |  
+  |   |   |   |   |   |   |   |   |   |  
+  |   |   |   |   |   |   |   |  
 
 
-![QS_UV_K5_export_5](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/1b9a9655-1b0d-4cee-809a-cf76a6252e70)
+
+![QS_UV_K5_export_7](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/d2ca9610-05e0-43fc-9c43-d7c07d9651ad)
 
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/QS_UV_K5_export_4.svg
+
 
 
