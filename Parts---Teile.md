@@ -1,15 +1,15 @@
 
+
 Label |   | Typ | Name | Pin | Case | Manufacturer | Datasheet-Link | Param1 | Param2 | Param3
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 2301AA | I, H | P-Mosfet | Si2301DS | 3 | TO-236 (SOT-23) | Vishay | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/2301A_SI2301_Datasheet.pdf | 2,5V |   | 1,25W
-24 |   | Transistor PNP | DTC114ECA | 3 | SOT23 |   | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/24_DTC114ECA_Galaxy%20Electrical.pdf |   |   |  
+24 |   | Transistor PNP | DTC114ECA | 3 | SOT23 |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/24_DTC114ECA_Galaxy%20Electrical.pdf |   |   |  
 2TY |   | PNP | S8550 | 3 |   |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/S8550-2TY-PNP_Datasheet.pdf |   |   |  
 AN26.0 |   | 26Mhz Quartz |   |   |   |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/AN26.0_TCXO_KDS_Datasheet.pdf |   |   |  
 AO8814 |   | Mosfet |   |   |   | Alpha & Omega Semiconductor, Ltd. | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/AO8814_AlphaOmegaSemiconductors.pdf |   |   |  
 BK1080 |   | FM Receiver IC V2.7 | BK1080 Beken | 2x4 |   | Beken | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/BK1080_Datasheet_V2.7.pdf |   |   |  
 BK1080 |   | FM Receiver IC V2.1 | BK1080 Beken | 2x4 |   | Beken | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/BK1080_Datasheet_V2.1.pdf |   |   |  
 BL24C64 |   | EEPROM | Two-wire Serial EEPROM | 2x4 | JEDEC SOIC | Shanghai Belling Corp., Ltd | https://github.com/ludwich66/Quansheng_UV-K5_Firmware/blob/main/hardware/BL24C64_Datasheet.pdf | 64K 8192*8 |   |  
-C4 |   | DualPowermanagemet Transistor | EMC4 / UMC4N / FMC4A | 5 |   |   |   |   |   |  
 C4 | CDEFK | LDO TLV700 | TLV70031DSER | 5 | SC-70, SOT | TI | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/C4_TLV700_TI_Datasheet.pdf | 1,8 V |   |  
 DP32G030 |   | Microcontroler |   |   |   | Action Dynamic Tech.(HK) Trading Co. |   |   |   |  
 HC H3601 |   |   |   | 2x4 | SOP8 |   |   |   |   |  
@@ -29,17 +29,14 @@ SS14 |   | Schottkydiode | SS14 | 2 | DO-214AC |   |   | 40V | 1A |  
 FG12864390-FKFW |   | LCD | FG12864390-FKFW | 12 | Modul |   |   | 128x64 px |   |  
 ST7565P |   | Sitronix ST7565 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565P_Datasheet_V2.3.pdf |   |   |  
 ST7565R |   | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565R_Datasheet_V1.7.pdf |   |   |  
-TY |   |   | 1SS241 | 2 |   |   |   |   |   |  
 TY |   | Zenerdiode 20V | BZX84J-C20 TY | 2 |   | NXP |   |   |   |  
-UD |   | Diode | KDS114E | 2 | SOD-323F | KEC | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/UD_KDS114E_Diode_KEC_Datasheet.pdf |   |   |  
-UW | A | N-Channel Fet | 2SK3078 | 3 | SOT89 | Toshiba | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/UW_2SK3078_Toshiba_Datasheet.PDF |   |   |  
+UD |   | Diode | KDS114E | 2 | SOD-323F | KEC | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/UD_KDS114E_Diode_KEC_Datasheet.pdf |   |   |  
+UW | A | N-Channel Fet | 2SK3078 | 3 | SOT89 | Toshiba | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/UW_2SK3078_Toshiba_Datasheet.pdf |   |   |  
 WA |   | Zenerdiode 1,0V |   | 2 |   | NXP |   | 1,0V |   |  
 WD |   | Zenerdiode 8,2V | BZT52C8V2 | 2 |   | NXP |   | 8,2V |   |  
 WL |   | Zenerdiode 1,2V | PZU12*A/DG | 2 |   | NXP |   | 1,2V |   |  
 XS5822 |   | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |   |   |  
-  |   |   |   |   |   |   |   |   |   |  
   |   |   |   |   |   |   |   |  
-
 
 
 ![QS_UV_K5_export_7](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/d2ca9610-05e0-43fc-9c43-d7c07d9651ad)
