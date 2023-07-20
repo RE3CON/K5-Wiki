@@ -1,6 +1,7 @@
 
 ![QS_UV_K5_export_10](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c9e84041-72ad-4743-9ac1-e253262e1479)
 
+https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/QS_UV_K5_export_11.svg
 
 Label | Part | Typ | Name | Pin | Case | Manufacturer | Datasheet-Link | Param1 | Param2 | Param3
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
