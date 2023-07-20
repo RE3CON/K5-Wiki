@@ -1,5 +1,5 @@
 
-![QS_UV_K5_export_11](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/fad32a2f-24ec-41cc-becb-36c8fc44f70d)
+![QS_UV_K5_export_11](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/029b73bf-d73b-4952-895f-08aef5bab010)
 
 
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/QS_UV_K5_export_11.svg
