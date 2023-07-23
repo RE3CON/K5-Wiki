@@ -15,8 +15,14 @@ I try to name sources as possible, but often I can't assign who was diligent. Co
 [piotr022 - UV_K5_playground - first attempts to prepare build and debug environment](https://github.com/piotr022/UV_K5_playground)<br>
 [Hackaday article 🛠](https://hackaday.com/2023/06/23/easy-modifications-for-inexpensive-radios/)<br>
 [Telegram Channel - EN](https://t.me/quansheng_uvk5_en)<br>
-[Telegram Channel - RU](https://t.me/uv_k5)<br>
-[Telegram Channel - ES](https://t.me/QuanShengES)<br>
+[Telegram Channel - RU](https://t.me/uv_k5)<br><br>
+I would like to ask the two Spanish Telegram Channels to merge.
+It makes little sense to distribute a few OM to two "equal" channels.
+Just open a third channel and direct all users there ;-)
+Here is my offer until we find a solution together!
+[Telegram Channel - ES *](https://t.me/QuanShengES)
+[Telegram Channel - ES #](https://t.me/Quansenguvk5)
+<br>
 [Telegram Channel - IT](https://t.me/+W31XPFpurWk0NzM0)<br>
 [Telegram Channel - PL](https://t.me/uvk5_pl)<br>
 [Telegram Channel - DE](https://t.me/quanshenguv5kde)<br>
