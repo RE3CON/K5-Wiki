@@ -9,7 +9,8 @@ I try to name sources as possible, but often I can't assign who was diligent. Co
 **Links to many people working on the UV-K5**
 
 [ludwich66 - Quansheng UV-K5 Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)<br>
-[Tunas1337 - UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares)<br>
+[amnemonic](https://github.com/amnemonic/Quansheng_UV-K5_Firmware)
+[tunas1337 - UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares)<br>
 [sq5bpf - uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering)<br>
 [fagci - qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder)<br>
 [piotr022 - UV_K5_playground - first attempts to prepare build and debug environment](https://github.com/piotr022/UV_K5_playground)<br>
