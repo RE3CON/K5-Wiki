@@ -19,9 +19,9 @@ I try to name sources as possible, but often I can't assign who was diligent. Co
 I would like to ask the two Spanish Telegram Channels to merge.
 It makes little sense to distribute a few OM to two "equal" channels.
 Just open a third channel and direct all users there ;-)
-Here is my offer until we find a solution together!
-[Telegram Channel - ES *](https://t.me/QuanShengES)
-[Telegram Channel - ES #](https://t.me/Quansenguvk5)
+Here is my offer until we find a solution together!<br>
+[Telegram Channel - ES *](https://t.me/QuanShengES)<br>
+[Telegram Channel - ES #](https://t.me/Quansenguvk5)<br>
 <br>
 [Telegram Channel - IT](https://t.me/+W31XPFpurWk0NzM0)<br>
 [Telegram Channel - PL](https://t.me/uvk5_pl)<br>
