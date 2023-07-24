@@ -1,6 +1,6 @@
 
-![QS_UV_K5_export_11](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/029b73bf-d73b-4952-895f-08aef5bab010)
-
+![QS_UV_K5_export_12](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/aaef8d34-5eff-44de-a711-a50574b47eeb)
+(Version 2023-07-24_QS_UV_K5_export_12.svg)
 
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/QS_UV_K5_export_11.svg
 
