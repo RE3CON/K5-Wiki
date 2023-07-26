@@ -5,4 +5,6 @@ I like to post the current version as PDF/KiCad_SCH. (The creator should please 
 
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/KiCad/UVK5_reversing-70MHz_modv_20230702.pdf
 
-<img width="1000" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/8907ca52-f793-4621-9412-cf757af8ed6b">
+<img width="1000" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/ba20b7f6-cf62-433c-a6f3-75eb8c7bbcbc">
+
+
