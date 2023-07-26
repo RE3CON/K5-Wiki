@@ -18,6 +18,7 @@
 * [Schematic_Akku](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Schematic_Akku)
 * [Programming-Cable](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Programming-Cable)
 * [Parts](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Parts---Teile)
+* [Measurements](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Measurements)
 * [Hardware_Mods](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Hardware_Mods)
 * [Accesories](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Accesories)
 # [Software](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Software)
