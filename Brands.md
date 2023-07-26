@@ -10,7 +10,7 @@ Label | Typ | Web
 <img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Firmware/assets/12202733/d124e2df-1e3f-4281-8e60-639507247883">  |   | 
 <img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Firmware/assets/12202733/b03e00f7-21aa-40eb-9837-6e6ef41cd3d8">  | K5  | 
 <img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c3f098ed-3405-4717-8049-de5bd1a8273f">  | UV-K9  | https://handytron.com/es/emisoras/walkies-vhf-uhf/uv-k9-handytron-walkie-vhf-uhf-5-watts-am-airband-receiver-scrambler-200-ch
-<img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/d6e36234-6e6b-4879-b451-02af24497d4f">  | SCOM FC9 Pro<br>UV-K5(8)   | 
+<img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/d6e36234-6e6b-4879-b451-02af24497d4f">  | SCOM FC9 Pro<br>UV-K6 = UV-K5(8)    | 
 
 
 
