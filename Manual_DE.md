@@ -1,6 +1,7 @@
 [Manual_UV-K5_Lang-de.pdf](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/files/11896295/Manual_UV-K5_Lang-de.pdf)
 
 # Handbuch Quansheng für die UV-K5 Familie
+(Dieses Handbuch beschreibt zuerstdas Orginalgerät - Mods sind nicht berücksichtigt)
 
 ![Blackout-Germany](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/331ab50e-a7d0-4794-ac25-7afca114300e)<Br>
 
