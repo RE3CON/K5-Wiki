@@ -20,7 +20,7 @@ Stand: 2023-Jul-28
 
 > [LCD-Display](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#lcd-display)
 
-> [Tasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tasten)
+> [Tasten/Seitentasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tasten)
 
 > [Tastaturtasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#tastaturtasten)
 
