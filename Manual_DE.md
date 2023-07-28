@@ -147,7 +147,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 
 Packen Sie das tragbare Radio vorsichtig aus. Wir empfehlen, dass Sie die folgenden Artikel überprüfen, bevor Sie das Verpackungsmaterial wegwerfen.
 
-Standardzubehör
+**Standardzubehör**
 
 Artikel | Menge
 -- | --
@@ -246,9 +246,9 @@ Schnelltasten | Funktion | Funktionsbeschreibung
 F+1 | BAND | (F1-F7) Frequenzumschalter
 F+2 | A/B | Hauptkanalumschalter
 F+3 | VFO/MR | Umschalten zwischen VFO(Frequenz)- und (Memory) MR-Modus
-F+4 | FC /Frequency Meter | Sendefrequenz und CTC-Freq. eines sendenden Geräts ermitteln.
+F+4 | FC /Frequency Meter | Sendefrequenz und CTC-Freq. eines sendenden Geräts ermitteln
 F+5 | NOAA Weather Alert | NOAA-Kanal starten oder beenden
-F+6 | H/M/L | Ausgangsleistung umschaltenHigh / Middle / Low
+F+6 | H/M/L | Ausgangsleistung umschalten High / Middle / Low
 F+7 | VOX | Zu VOX umschalten
 F+8 | R | Zur Rückwärtsfunktion wechseln
 F+9 | CALL | Zum Ein-Tasten-Notruf wechseln
