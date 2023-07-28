@@ -6,9 +6,13 @@
 Inhaltsverzeichnis:
 
 [1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#1-fcc-frsgmrsamateur-warnung)
-[1. VORSICHTSMASSNAHMEN VOR DER VERWENDUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#2-vorsichtsmassnahmen-vor-der-verwendung)
-1. Hauptmerkmale
-1. Mitgeliefertes Zubehör
+
+[2. VORSICHTSMASSNAHMEN VOR DER VERWENDUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#2-vorsichtsmassnahmen-vor-der-verwendung)
+
+[3. Hauptmerkmale](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#hauptmerkmale)
+
+[4. Zubehör im Lieferumfang](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#4-zubehör-im-lieferumfang)
+
 1. Radio-Diagramm
 1. LCD-Display
 1. Allgemeine Bedienungseinführung
@@ -132,7 +136,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Ein-Tasten-Aufrufkanal
    
 
-## 4. Zubehör im Lieferumfang enthalten
+## 4. Zubehör im Lieferumfang
 
 Packen Sie das tragbare Radio vorsichtig aus. Wir empfehlen, dass Sie die folgenden Artikel überprüfen, bevor Sie das Verpackungsmaterial wegwerfen.
 
