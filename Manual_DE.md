@@ -84,7 +84,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Das erstmalige Aufladen des Batteriepacks nach dem Kauf oder einer längeren Lagerung (länger als 2 Monate) wird nicht dazu führen, dass das Batteriepack seine größte Kapazität oder normale Ladung erreicht. Dies kann erst nach zwei- bis dreimaligem wiederholtem Aufladen und Entladen erreicht werden.
 * Schalten Sie das Radio vor dem Aufladen bitte aus. Bitte benutzen Sie das Radio während des Ladevorgangs nicht, da dies die normale Ladung des Batteriepacks beeinträchtigen und gefährliche Unfälle verursachen kann.
 * Nachdem das Batteriepack vollständig aufgeladen ist, entnehmen Sie Ihn aus dem Ladegerät. Bitte das Batteriepack nicht erneut aufladen, bevor es vollständig entladen ist. Ansonsten wird der Memory-Effekt des Batteriepacks zerstört.
-* Wenn das Batteriepack trotz korrektem Ladevorgang keine Kapazität oder Betriebszeit aufweißt, bedeutet dies, dass die Lebensdauer der Batteriepacks zu Ende geht. Bittekaufen Sie ein neues Batteriepack.
+* Wenn das Batteriepack trotz korrektem Ladevorgang keine Kapazität oder Betriebszeit aufweißt, bedeutet dies, dass die Lebensdauer der Batteriepacks zu Ende geht. Bitte kaufen Sie ein neues Batteriepack.
 * Bitte verwenden Sie ausschließlich das original Batteriepack und Ladegerät. Diese sind bei Ihrem lokalen Händler erhältlich.
 * Wenn Sie Fragen zu einem nicht original Fabrik-Batteriepack oder Zubehör haben, verwenden Sie diese bitte nicht. Andernfalls können gefährliche Unfälle auftreten.
 
