@@ -1,8 +1,8 @@
 [Manual_UV-K5_Lang-de.pdf](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/files/11896295/Manual_UV-K5_Lang-de.pdf)
 
+# Handbuch Quansheng für die UV-K5 Familie
 
-***
-
+![Blackout-Germany](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/331ab50e-a7d0-4794-ac25-7afca114300e)<Br>
 **Inhaltsverzeichnis:**
 
 [1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#1-fcc-frsgmrsamateur-warnung)
@@ -191,7 +191,7 @@ NS | Automatisches Scannen des NOAA-Kanals(National Oceanic and Atmospheric Admi
 
 ## Tasten
 
-**Programmierbare Funktionstaste und deren Funktion** | Grundeinstellung
+**Programmierbare Funktionstasten und deren Funktion** | Grundeinstellung
 -- | --
 PTT-Taste (Sendetaste)| Senden / Empfangen Schaltertaste. Drücken Sie "PTT", um zu senden und ins Mikrofon zu sprechen. Lassen Sie "PTT" los, um zu empfangen.
 Seitentaste 1: | Kurz drücken, um die Monitor-Funktion einzuschalten.
@@ -201,10 +201,9 @@ Seitentaste 2: | Kurz drücken, um die Jacklight einzuschalten.
 Sondermenü: | Schalten Sie das Gerät mit gedrückter „PTT“ und „Seitentaste 1“ ein. Sie aktivieren temporär die Sonder-Menüpunkte 52-57.
   |  
 
-Die Funktion der Seitentaste, die über die Programmiersoftware eingestellt werden kann:
-
-Notrufmodus Ein / Aus | Drücken Sie diese Taste, um den Notrufalarm einzuschalten. Der Alarmton wird gemäß den Einstellungen der Programmiersoftware ausgelöst.
+Die Funktion der Seitentaste, die über die Programmiersoftware eingestellt werden können | --
 -- | --
+Notrufmodus Ein / Aus | Drücken Sie diese Taste, um den Notrufalarm einzuschalten. Der Alarmton wird gemäß den Einstellungen der Programmiersoftware ausgelöst.
 Auswahl hoher / niedriger Sendeleistung | Erlaubt dem Benutzer zwischen hoher und niedriger Sendeleistung umzuschalten.
 Monitor | Erlaubt dem Benutzer die Monitorfunktion ein- oder auszuschalten. Das Radio ignoriert alle empfangenen CTCSS / DCS-Codes und überwacht den tatsächlichen Kanal. Sie können den Monitorrauschen zuhören, um die Lautstärke anzupassen.
 FM UKW Radio | Ein- oder Ausschalten des FM-Radio-Modus.
