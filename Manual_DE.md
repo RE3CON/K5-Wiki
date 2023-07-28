@@ -3,7 +3,7 @@
 
 ***
 
-Inhaltsverzeichnis:
+**Inhaltsverzeichnis:**
 
 [1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#1-fcc-frsgmrsamateur-warnung)
 
@@ -15,13 +15,14 @@ Inhaltsverzeichnis:
 
 [5. Geräte-Übersicht](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#5-radio-diagram)
 
-  [LCD-Display](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#lcd-display)
+> [LCD-Display](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#lcd-display)
 
-  [Tasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tasten)
+> [Tasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tasten)
 
-  [Tastenfeldtasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tastenfeldtasten)
+> [Tastenfeldtasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tastenfeldtasten)
 
-1. Allgemeine Bedienungseinführung
+[6. Allgemeine Bedienung](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#6-allgemeine-bedienung)
+
 1. Spezifikationen
 1. Dokumente / Ressourcen
 1. Verwandte Beiträge
@@ -326,7 +327,7 @@ SCREN | 57 | On / Off |  
 ***
 
 
-** 6. Allgemeine Bedienungseinführung**
+## 6. Allgemeine Bedienung
 
 * (6.1) Passwortschutz beim Einschalten
   * Drehen Sie den "Power/Volume Switch" im Uhrzeigersinn, um dieses Funkgerät einzuschalten. Wenn das Programm eine Passwortschutz beim Einschalten festlegt, zeigt der Bildschirm "LOCK" an. Der Benutzer muss zuerst das Passwort eingeben, bevor das Radio normal verwendet werden kann.
