@@ -150,7 +150,7 @@ Benutzerhandbuch | 1
 
 
 ***
-
+## LCD-Display
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/2755d97a-79cf-4f9c-a0a8-3cee678c9fb9)
 
 Symbol | Description
@@ -177,4 +177,17 @@ TX | Übertragung.
 AM | AM Empfangssymbol
 NS | Automatisches Scannen des NOAA-Kanals(National Oceanic and Atmospheric Administration)
 
-<p style="line-height: 16px; margin-bottom: 0cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-variant-ligatures: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal;"><br></p><p style="line-height: 16px; margin-bottom: 0cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><br></p><h3 class="western" style="margin-top: 0.25cm; margin-bottom: 0.21cm; background: none; break-after: avoid; font-family: Arial, sans-serif; font-size: 14pt; font-weight: bold; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">Tasten</h3>
+##Tasten
+
+**PTT-Taste (Sendetaste)**
+* Senden / Empfangen Schaltertaste. Drücken Sie "PTT", um zu senden und ins Mikrofon zu sprechen. Lassen Sie "PTT" los, um zu empfangen.
+
+**Programmierbare Funktionstaste und deren Funktion**
+Seitentaste 1: | Kurz drücken, um die Monitor-Funktion einzuschalten.
+-- | --
+  | Lange drücken, um 1750 Hz einzuschalten.
+Seitentaste 2: | Kurz drücken, um die Jacklight einzuschalten.
+  | Lange drücken, um den Notfallalarm einzuschalten.
+Sondermenü: | Schalten Sie das Gerät mit gedrückter „PTT“ und „Seitentaste 1“ein.Sie aktivieren temporär die Menüpunkte 52-57.
+  |  
+
