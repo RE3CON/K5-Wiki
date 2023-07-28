@@ -24,4 +24,6 @@ Num | Code | Num | Code | Num | Code | Num | Code | Num | Code
 020 | D122N | 041 | D245N | 062 | D364N | 083 | D523N | 104 | D754N
 021 | D125N | 042 | D246N | 063 | D365N | 084 | D526N |   |  
 
+creator: [Rod](https://github.com/Greydesk)
+
 <p style="line-height: 18.4px; margin-bottom: 0.25cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><br><br></p>
