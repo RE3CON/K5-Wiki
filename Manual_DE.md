@@ -215,7 +215,7 @@ VOX Ein / Aus | Erlaubt dem Benutzer die VOX-Funktion ein- oder auszuschalten.
 1750 Hz Übertragung | Schaltet eine kontinuierliche 1750-Hz Ton-Übertragung ein.
 Jack-Licht | Schaltet die Taschenlampe ein oder aus.
 
-## Tastenfeldtasten
+## Tastaturtasten
 * Menü / Bestätigungstaste: MENÜ
   * Auf der Hauptseite kurz drücken, um ins Menü zu gelangen, Menüpunkt auswählen und die MENÜ-Taste drücken, um den Parameter zu bestätigen.
   * Lange drücken, um den letzten Einstellungspunkt aufzurufen.
