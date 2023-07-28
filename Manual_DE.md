@@ -201,7 +201,7 @@ Seitentaste 2: | Kurz drücken, um die Jacklight einzuschalten.
 Sondermenü: | Schalten Sie das Gerät mit gedrückter „PTT“ und „Seitentaste 1“ ein. Sie aktivieren temporär die Sonder-Menüpunkte 52-57.
   |  
 
-Die Funktion der Seitentaste, die über die Programmiersoftware eingestellt werden können | --
+Die Funktion der Seitentaste, die über die Programmiersoftware eingestellt werden können | Beschreibung
 -- | --
 Notrufmodus Ein / Aus | Drücken Sie diese Taste, um den Notrufalarm einzuschalten. Der Alarmton wird gemäß den Einstellungen der Programmiersoftware ausgelöst.
 Auswahl hoher / niedriger Sendeleistung | Erlaubt dem Benutzer zwischen hoher und niedriger Sendeleistung umzuschalten.
