@@ -10,7 +10,7 @@ Stand: 2023-Jul-28
 
 [1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#1-fcc-frsgmrsamateur-warnung)
 
-[2. VORSICHTSMASSNAHMEN VOR DER VERWENDUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#2-vorsichtsmassnahmen-vor-der-verwendung)
+[2. Vorsichtsmaßnahmen vor der Verwendung](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#2-vorsichtsmassnahmen-vor-der-verwendung)
 
 [3. Hauptmerkmale](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#hauptmerkmale)
 
