@@ -5,16 +5,17 @@
 
 Inhaltsverzeichnis:
 
-[1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#1-fcc-frsgmrsamateur-warnung)
+[1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#1-fcc-frsgmrsamateur-warnung)
 
-[2. VORSICHTSMASSNAHMEN VOR DER VERWENDUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#2-vorsichtsmassnahmen-vor-der-verwendung)
+[2. VORSICHTSMASSNAHMEN VOR DER VERWENDUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#2-vorsichtsmassnahmen-vor-der-verwendung)
 
-[3. Hauptmerkmale](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#hauptmerkmale)
+[3. Hauptmerkmale](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#hauptmerkmale)
 
 [4. Zubehör im Lieferumfang](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#4-zubehör-im-lieferumfang)
 
-1. Radio-Diagramm
-1. LCD-Display
+[5. Radio-Diagramm ](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#5-radio-diagram)
+
+6. LCD-Display
 1. Allgemeine Bedienungseinführung
 1. Spezifikationen
 1. Dokumente / Ressourcen
