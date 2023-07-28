@@ -189,3 +189,59 @@ Seitentaste 2: | Kurz drücken, um die Jacklight einzuschalten.
 Sondermenü: | Schalten Sie das Gerät mit gedrückter „PTT“ und „Seitentaste 1“ ein. Sie aktivieren temporär die Sonder-Menüpunkte 52-57.
   |  
 
+Die Funktion der Seitentaste, die über die Programmiersoftware eingestellt werden kann:
+
+Notrufmodus Ein / Aus | Drücken Sie diese Taste, um den Notrufalarm einzuschalten. Der Alarmton wird gemäß den Einstellungen der Programmiersoftware ausgelöst.
+-- | --
+Auswahl hoher / niedriger Sendeleistung | Erlaubt dem Benutzer zwischen hoher und niedriger Sendeleistung umzuschalten.
+Monitor | Erlaubt dem Benutzer die Monitorfunktion ein- oder auszuschalten. Das Radio ignoriert alle empfangenen CTCSS / DCS-Codes und überwacht den tatsächlichen Kanal. Sie können den Monitorrauschen zuhören, um die Lautstärke anzupassen.
+FM UKW Radio | Ein- oder Ausschalten des FM-Radio-Modus.
+Scan Ein / Aus | Erlaubt dem Benutzer die Scanfunktion ein- oder auszuschalten.
+VOX Ein / Aus | Erlaubt dem Benutzer die VOX-Funktion ein- oder auszuschalten.
+1750 Hz Übertragung | Schaltet eine kontinuierliche 1750-Hz Ton-Übertragung ein.
+Jack-Licht | Schaltet die Taschenlampe ein oder aus.
+
+**Tastenfeldtasten**
+* Menü / Bestätigungstaste: MENÜ
+  * Auf der Hauptseite kurz drücken, um ins Menü zu gelangen, Menüpunkt auswählen und die MENÜ-Taste drücken, um den Parameter zu bestätigen.
+  * Lange drücken, um den letzten Einstellungspunkt aufzurufen.
+  * Im DTMF-Modus bedeutet es das A-Code-Wort.
+
+* Exit / Clear-Taste: EXIT
+  * Im Bearbeitungsmodus kurz drücken, um ins übergeordnete Menü zu gelangen; lange drücken, um zur Hauptseite zurückzukehren.
+  * Im Eingabemodus drücken, um die Eingabeinformationen zu löschen.
+  * Im DTMF-Modus bedeutet es das D-Code-Wort.
+
+* Oben-Taste:
+  * Nach oben bewegen
+  * Im DTMF-Modus bedeutet es das B-Code-Wort.
+
+* Unten-Taste:
+  * Nach unten bewegen
+  * Im DTMF-Modus bedeutet es das C-Code-Wort.
+
+* *-Taste
+  * Kurz die *-Taste drücken, um die manuelle Wahl- und Anrufseite zu öffnen.
+  * Im DTMF-Modus bedeutet es das *-Code-Wort.
+  * Lange drücken, um die Frequenz- oder Kanalsuche zu starten.
+
+* F-Taste
+  * Kann mit 0-9 und * verwendet werden, um Funktionen schnell zu wechseln.
+  * Lange drücken, um die Tastatur zu sperren oder zu entsperren.
+  * Im DTMF-Modus repräsentiert es das #-Code-Wort.
+
+Schnelltasten | Funktion | Funktionsbeschreibung
+-- | -- | --
+F+1 | BAND | (F1-F7) Frequenzumschalter
+F+2 | A/B | Hauptkanalumschalter
+F+3 | VFO/MR | Umschalten zwischen VFO(Frequenz)- und (Memory) MR-Modus
+F+4 | FC /Frequency Meter | Sendefrequenz und CTC-Freq. eines sendenden Geräts ermitteln.
+F+5 | NOAA Weather Alert | NOAA-Kanal starten oder beenden
+F+6 | H/M/L | Ausgangsleistung umschaltenHigh / Middle / Low
+F+7 | VOX | Zu VOX umschalten
+F+8 | R | Zur Rückwärtsfunktion wechseln
+F+9 | CALL | Zum Ein-Tasten-Notruf wechseln
+F+* | SCAN / SER | CTCSS/DCS-Suchfunktion starten
+F+0 | FM | FM starten oder beenden
+
+<p style="line-height: 16px; margin-bottom: 0cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><br></p><p style="line-height: 16px; margin-bottom: 0cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><br></p><br class="Apple-interchange-newline">
