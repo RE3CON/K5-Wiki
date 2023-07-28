@@ -13,4 +13,5 @@ Num | Freq | Num | Freq | Num | Freq | Num | Freq | Num | Freq
 009 | 88.5Hz | 019 | 123.0Hz | 029 | 165.5Hz | 039 | 196.6Hz | 049 | 250.3Hz
 010 | 91.5Hz | 020 | 127.3Hz | 030 | 167.9Hz | 040 | 199.5Hz | 050 | 254.1Hz
 
+creator: [Rod](https://github.com/Greydesk)
 <p style="line-height: 18.4px; margin-bottom: 0.25cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><br><br></p>
