@@ -101,7 +101,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Programm vor Ort
 * Notfallalarm
 * FM UKW Radio
-* 10-Gruppen-Verschlüsselung
+* 10-Gruppen-Verschlüsselung [SCR](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_Appendix_Voice-Inversion-Frequencies)
 * Multi-Scan
 * CTCSS/DCS
 * Remote Kill/Revive
@@ -273,7 +273,7 @@ T_CTCS | 7 | Transmit CTCSS (OFF, 1-50: CTCSS) | 0-50
 SFT-D | 8 | Frequency Deviation Setting (OFF:TX frequency = RX frequency; ADD: TX frequency = RX frequency + frequency deviation; SUB: TX frequency = RX frequency-frequency deviation) | 0-2
 OFFSET | 9 | Frequency of Frequency Deviation (0-999.9999M） |  
 W/N | 10 | Channel Bandwidth (0:WIDE，1:NARROW） | 0-1
-SCR | 11 | Encrypted Communication (OFF, 1-10: 1 to 10 types of scrambling frequency.) | 0-10
+SCR | 11 | Encrypted Communication (OFF, 1-10: 1 to 10 types of scrambling [frequency](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_Appendix_Voice-Inversion-Frequencies).) | 0-10
 BCL | 12 | Busy Channel Lock (OFF,ON） | 0-1
 MEM-CH | 13 | Channel Save (Choose the channel by Up/Down Key and Number Key, press MENU key to Save the channel.) |  
 SAVE | 14 | Battery Save (OFF/1:1/1:2/1:3/1:4)The rate between active time and sleep time. | 0-4
