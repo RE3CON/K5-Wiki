@@ -3,6 +3,7 @@
 # Handbuch Quansheng für die UV-K5 Familie
 
 ![Blackout-Germany](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/331ab50e-a7d0-4794-ac25-7afca114300e)<Br>
+
 **Inhaltsverzeichnis:**
 
 [1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#1-fcc-frsgmrsamateur-warnung)
@@ -175,7 +176,7 @@ N | The radio work in narrow band mode.
 VOX | VOX Function. When the sound pressure reaches the set value, the transmission is started. This function can be set through the menu.Wenn der Schalldruck den eingestellten Wert erreicht, wird die Übertragung gestartet. Diese Funktion kann im Menü eingestellt werden.
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/43efc859-b2e0-408b-964b-6bf019b58b71)| Es bedeutet, dass die Übertragungsfrequenz der Empfangsfrequenz plus einer Frequenzabweichung entspricht. – Es bedeutet, dass die Übertragungsfrequenz der Empfangsfrequenz minus einer Frequenzabweichung entspricht.
 DTMF | Die Decodierung des DTMF-Signals ist aktiviert.
-DW | Die Frequenzdualüberwachung ist aktiviert. Es können die beiden Frequenzbänder, die auf dem Display angezeigt werden, überwacht werden.
+DW | Die Frequenz-Dual-Watch ist aktiviert. Es können die beiden Frequenzbänder, die auf dem Display angezeigt werden, überwacht werden.
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/d650a1b3-22d9-4f89-af85-4bbb7ef53efe)| Tastensperre
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/f782dff9-668c-4e99-920a-135fd9660566)| Anzeige des aktuellen Batteriestands. Wenn die Batterie fast erschöpft ist, wird dies angezeigt. Es bedeutet, dass die Batterie aufgeladen werden muss und das Radio regelmäßig einen Alarmton für niedrige Leistung ausgibt.
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/e15e9398-741b-4e15-b029-56bc42035860)| Hauptkanal-Anzeige. Wenn Sie mit PTT einen Anruf auf dem Sekundärkanal starten, funktioniert alles auf dem Hauptkanal.
@@ -269,7 +270,7 @@ R_DCS | 4 | Receive DCS (OFF,1-104: DCS, 105-208: reverse DCS). Short Press F+*
 R_CTCS | 5 | Receive CTCSS (OFF, 1-50: CTCSS). Short Press F+* to trigger CTCSS scanning. | 0-50
 T_DCS | 6 | Transmit DCS (OFF, 1-104: DCS, 105-208：reverse DCS) | 0-208
 T_CTCS | 7 | Transmit CTCSS (OFF, 1-50: CTCSS) | 0-50
-SFT-D | 8 | Frequency Deviation Setting (OFF:TX frequency =RX frequency; ADD: TX frequency =RX frequency + frequency deviation; SUB: TX frequency =RX frequency-frequency deviation) | 0-2
+SFT-D | 8 | Frequency Deviation Setting (OFF:TX frequency = RX frequency; ADD: TX frequency = RX frequency + frequency deviation; SUB: TX frequency = RX frequency-frequency deviation) | 0-2
 OFFSET | 9 | Frequency of Frequency Deviation (0-999.9999M） |  
 W/N | 10 | Channel Bandwidth (0:WIDE，1:NARROW） | 0-1
 SCR | 11 | Encrypted Communication (OFF, 1-10: 1 to 10 types of scrambling frequency.) | 0-10
@@ -321,8 +322,6 @@ F_Lock | 53 | On / Off |  
 SCREN | 57 | On / Off |  
   |   |   |  
 
-
-
 ***
 
 
@@ -345,7 +344,7 @@ SCREN | 57 | On / Off |  
 
 * (6.5) Cross-Band-Empfang/Senden
 
-  Die Methode ist: MENU→18→WX, drücken Sie MENU, um die Einstellung aufzurufen
+  Die Methode ist: MENU → 18 → WX, drücken Sie MENU, um die Einstellung aufzurufen
  
   OFF: Hauptkanal-Sendung Wenn CHAN_A oder B einen gültigen Ruf empfängt, wird der Kanal automatisch zum Hauptkanal, bis der Anruf beendet ist.
 
@@ -355,11 +354,11 @@ SCREN | 57 | On / Off |  
 
 * (6.6) Kanal speichern
   * Im MR-Modus ist das Speichern des Kanals möglich. Sie können den aktuellen Kanal in einen neuen Kanal kopieren.
-  * Im VFO-Modus sollten Sie zuerst den Parameter der RX-Frequenz, Frequenzabweichungsrichtung, Breit-/Schmalbandbreite, RX/TX-CTCSS/DCS,    TX-Ausgangsleistung, ob eine Teilnahme an der Scannung stattfinden soll, DTMF-Code, Scrambler usw. einstellen. Drücken Sie dann MENU→13→CH-001, und drücken Sie erneut MENU, um das Speichern des Kanals aufzurufen. Wählen Sie den Kanal mit der Up/Down-Taste aus. Oder Sie können die Nummerntasten verwenden, um die Kanalnummer einzugeben. Drücken Sie dann erneut die MENU-Taste. Das LCD-Display zeigt "SURE?". Sie können die MENU-Taste drücken, um den Kanal zu speichern.
+  * Im VFO-Modus sollten Sie zuerst den Parameter der RX-Frequenz, Frequenzabweichungsrichtung, Breit-/Schmalbandbreite, RX/TX-CTCSS/DCS,    TX-Ausgangsleistung, ob eine Teilnahme an der Scannung stattfinden soll, DTMF-Code, Scrambler usw. einstellen. Drücken Sie dann MENU → 13 → CH-001, und drücken Sie erneut MENU, um das Speichern des Kanals aufzurufen. Wählen Sie den Kanal mit der Up/Down-Taste aus. Oder Sie können die Nummerntasten verwenden, um die Kanalnummer einzugeben. Drücken Sie dann erneut die MENU-Taste. Das LCD-Display zeigt "SURE?". Sie können die MENU-Taste drücken, um den Kanal zu speichern.
   * Wenn Sie den gespeicherten Kanal auswählen und CH-XXX angezeigt wird, ist der Kanal gespeichert. Wenn XXX angezeigt wird, ist der Kanal leer.
 
 * (6.7) Kanal löschen
-  * Drücken Sie MENU→50→CH-XXX, und drücken Sie dann erneut MENU, um das Löschen des Kanals aufzurufen. Wählen Sie den Kanal aus, den Sie löschen möchten, mit der Up/Down-Taste aus. Oder Sie können die Tasten des Keypads verwenden, um die Kanalnummer einzugeben. Drücken Sie dann erneut die MENU-Taste. Das LCD-Display zeigt "SURE?". Sie können die MENU-Taste drücken, um den Kanal zu löschen.
+  * Drücken Sie MENU → 50 → CH-XXX, und drücken Sie dann erneut MENU, um das Löschen des Kanals aufzurufen. Wählen Sie den Kanal aus, den Sie löschen möchten, mit der Up/Down-Taste aus. Oder Sie können die Tasten des Keypads verwenden, um die Kanalnummer einzugeben. Drücken Sie dann erneut die MENU-Taste. Das LCD-Display zeigt "SURE?". Sie können die MENU-Taste drücken, um den Kanal zu löschen.
 
 * (6.8) Einstellung von Empfangs- und Sendeton (CTCSS/DCS)
 
@@ -460,11 +459,27 @@ Ablauf:
 
 * (6.19) Empfangen des Flugfunkbands
     * Geben Sie die Empfangsfrequenz ein. Wenn die örtliche Flugfunkfrequenz nicht klar ist, kann die Scannfunktion den gesamten Frequenzbereich von 108-136 MHz scannen.
-    * Menu→48→AM ON stellt die Kanalmodulationsmethode auf AM ein, um den Flugfunk-Intercom zu hören.
-    * Menu→48→AM OFF stellt die Kanalmodulationsmethode auf FM ein.
-    * Die Einstellungen von Menu 48 gelten nur für den Frequenzbereich von 108-136.
+    * Menu → 48 → AM ON stellt die Kanalmodulationsmethode auf AM ein, um den Flugfunk-Intercom zu hören.
+    * Menu → 48 → AM OFF stellt die Kanalmodulationsmethode auf FM ein.
+    * Die Einstellungen von Menu 48 gelten nur für den Frequenzbereich von 108-136 MHz.
 
 * (6.20) Wireless Radio Replikation
     * Halten Sie die PTT + Seitentaste 2 gedrückt, um in die Schnittstelle für die Wireless Radio Replikation zu gelangen. Das LCD zeigt Air Copy (RDY) an. Sowohl das sendende Radio als auch das empfangende Radio können die digitale Tastatur verwenden, um die Frequenz der drahtlosen Replikation einzustellen. Die Frequenz des sendenden Radios und des empfangenden Radios müssen übereinstimmen. Die voreingestellte Empfangs-/Sendefrequenz beträgt 410,0125 MHz.
     * Drücken Sie die EXIT-Taste des Empfangsradios, um in den Empfangsmodus zu gelangen, und das LCD zeigt Air Copy an. Drücken Sie die MENU-Taste des Senderradios, um mit der Übertragung der Frequenzdaten zu beginnen. Und das LCD zeigt Air Copy an.
-    * FM starten oder beendenWährend des Kopiervorgangs zeigt das LCD den Kopierfortschritt RCV: XX E:XX an. E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang abgeschlossen ist, zeigt der Sender SND: 120 an.
+    * FM starten oder beendenWährend des Kopiervorgangs zeigt das LCD den Kopierfortschritt RCV: XX E:XX an. 
+E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang abgeschlossen ist, zeigt der Sender SND: 120 an.
+
+**Abkürzungen:**
+CTCSS
+DCS
+DTMF
+MR  Memory / Speicherplatz
+NOAA
+Output Power (1W=L LOW / 3W=M MID / 5W=H HIGH)
+PTT
+PTT-ID
+RDY
+RX Receive /Empfangen
+TX Transmit / Senden
+VFO
+VOX 
