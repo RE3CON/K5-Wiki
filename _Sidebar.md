@@ -3,7 +3,8 @@
 * [Media & Hacks & Links](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Hacks---Media)
 * [Manual_EN](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Manual_EN)
   * [Manual_Appendix_CTCSS-Frequencies](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_Appendix_CTCSS-Frequencies)
-https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_Appendix_DCS-Codes
+  * [Manual_Appendix_DCS-Codes](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_Appendix_DCS-Codes)
+  * [Manual_Appendix_Voice-Inversion-Frequencies](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_Appendix_Voice-Inversion-Frequencies)
 * [Manual_DE](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Manual_DE)
 * [Approvals & Certificates](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Approvals-and-Certificates)
 # [Hardware](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Hardware)
