@@ -334,17 +334,17 @@ SCREN | 57 | On / Off |  
 
 * (6.5) Cross-Band-Empfang/Senden
 
-Die Methode ist: MENU→18→WX, drücken Sie MENU, um die Einstellung aufzurufen
+  Die Methode ist: MENU→18→WX, drücken Sie MENU, um die Einstellung aufzurufen
+ 
+  OFF: Hauptkanal-Sendung Wenn CHAN_A oder B einen gültigen Ruf empfängt, wird der Kanal automatisch zum Hauptkanal, bis der Anruf beendet ist.
 
-OFF: Hauptkanal-Sendung Wenn CHAN_A oder B einen gültigen Ruf empfängt, wird der Kanal automatisch zum Hauptkanal, bis der Anruf beendet ist.
+  CHAN_A: Unabhängig davon, welche Kanäle gültige Anrufe empfangen, ist der Standard-TX-Kanal Kanal A und es wird das Zeichen "DW" angezeigt.
 
-CHAN_A: Unabhängig davon, welche Kanäle gültige Anrufe empfangen, ist der Standard-TX-Kanal Kanal A und es wird das Zeichen "DW" angezeigt.
-
-CHAN_B: Unabhängig davon, welche Kanäle gültige Anrufe empfangen, ist der Standard-TX-Kanal Kanal B und es wird das Zeichen "DW" angezeigt.
+  CHAN_B: Unabhängig davon, welche Kanäle gültige Anrufe empfangen, ist der Standard-TX-Kanal Kanal B und es wird das Zeichen "DW" angezeigt.
 
 * (6.6) Kanal speichern
   * Im MR-Modus ist das Speichern des Kanals möglich. Sie können den aktuellen Kanal in einen neuen Kanal kopieren.
-  * Im VFO-Modus sollten Sie zuerst den Parameter der RX-Frequenz, Frequenzabweichungsrichtung, Breit-/Schmalbandbreite, RX/TX-CTCSS/DCS, TX-Ausgangsleistung, ob eine Teilnahme an der Scannung stattfinden soll, DTMF-Code, Scrambler usw. einstellen. Drücken Sie dann MENU→13→CH-001, und drücken Sie erneut MENU, um das Speichern des Kanals aufzurufen. Wählen Sie den Kanal mit der Up/Down-Taste aus. Oder Sie können die Nummerntasten verwenden, um die Kanalnummer einzugeben. Drücken Sie dann erneut die MENU-Taste. Das LCD-Display zeigt "SURE?". Sie können die MENU-Taste drücken, um den Kanal zu speichern.
+  * Im VFO-Modus sollten Sie zuerst den Parameter der RX-Frequenz, Frequenzabweichungsrichtung, Breit-/Schmalbandbreite, RX/TX-CTCSS/DCS,    TX-Ausgangsleistung, ob eine Teilnahme an der Scannung stattfinden soll, DTMF-Code, Scrambler usw. einstellen. Drücken Sie dann MENU→13→CH-001, und drücken Sie erneut MENU, um das Speichern des Kanals aufzurufen. Wählen Sie den Kanal mit der Up/Down-Taste aus. Oder Sie können die Nummerntasten verwenden, um die Kanalnummer einzugeben. Drücken Sie dann erneut die MENU-Taste. Das LCD-Display zeigt "SURE?". Sie können die MENU-Taste drücken, um den Kanal zu speichern.
   * Wenn Sie den gespeicherten Kanal auswählen und CH-XXX angezeigt wird, ist der Kanal gespeichert. Wenn XXX angezeigt wird, ist der Kanal leer.
 
 * (6.7) Kanal löschen
@@ -353,18 +353,18 @@ CHAN_B: Unabhängig davon, welche Kanäle gültige Anrufe empfangen, ist der Sta
 * (6.8) Einstellung von Empfangs- und Sendeton (CTCSS/DCS)
 
 Ablauf:
-MENU → 4 → R-DCS Drücken Sie MENU, um einzutreten und wählen Sie den RX DCS-Code, den Sie aus der DCS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
+  MENU → 4 → R-DCS Drücken Sie MENU, um einzutreten und wählen Sie den RX DCS-Code, den Sie aus der DCS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
 
-MENU → 5 → R-CTCS Drücken Sie MENU, um einzutreten und wählen Sie den RX CTCSS-Code, den Sie aus der CTCSS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
+  MENU → 5 → R-CTCS Drücken Sie MENU, um einzutreten und wählen Sie den RX CTCSS-Code, den Sie aus der CTCSS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
 
-MENU → 6 → T-DCS Drücken Sie MENU, um einzutreten und wählen Sie den TX DCS-Code, den Sie aus der DCS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
+  MENU → 6 → T-DCS Drücken Sie MENU, um einzutreten und wählen Sie den TX DCS-Code, den Sie aus der DCS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
 
-MENU → 7 → T-CTCS Drücken Sie MENU, um einzutreten und wählen Sie den TX CTCSS-Code, den Sie aus der CTCSS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
+  MENU → 7 → T-CTCS Drücken Sie MENU, um einzutreten und wählen Sie den TX CTCSS-Code, den Sie aus der CTCSS-Liste einstellen möchten, mit den Auf- und Ab-Tasten aus.
 
   * CTCSS/DCS wird verwendet, um unerwünschte Rauschsignale beim Empfangen zu entfernen.
 
 * (6.9) Schnelle Kopie eines Kanals (Funktion als Frequenzmesser)
-METER (FÜR ZWEIWEGFUNKGERÄTE UND EINIGE ANDERE GERÄTE)
+  METER (FÜR ZWEIWEGFUNKGERÄTE UND EINIGE ANDERE GERÄTE)
   * Die schnelle Kopie erfordert ein starkes Signal. Sowohl der Sender als auch der Empfänger sollten eine Antenne installiert haben. Und ihre Entfernung sollte nicht zu weit sein.
   * Drücken Sie F+4, um in die Frequenzmess-Schnittstelle zu gelangen. Wenn ein starkes Signal empfangen wird, zeigt das LCD-Display die Signalträgerfrequenz und den Sendekanal (CTCSS oder DCS) an. Drücken Sie die *-Taste, um die Frequenz erneut zu messen.
   * Nachdem die effektive Frequenz gemessen wurde, drücken Sie die MENU-Taste, um die aktuell gemessene Frequenz und den Sendeton (CTCSS/DCS) auf dem ange-gebenen Kanal zu speichern.
@@ -384,16 +384,16 @@ METER (FÜR ZWEIWEGFUNKGERÄTE UND EINIGE ANDERE GERÄTE)
     * Gruppenanruf: Verwenden Sie anstelle einer oder mehrerer Codewörter in der ID-Nummer einen Gruppenrufcode, um eine Kommunikationsgruppe anzurufen. Der Gruppenrufcode wird von der Programmdaten erstellt. Zum Beispiel ist der Gruppenrufcode als # festgelegt. Wenn Sie 12# senden, können Sie 10 Funkgeräte mit den ID-Nummern 120 ~ 129 anrufen, und wenn Sie 1## senden, können Sie 100 Funkgeräte mit den ID-Nummern 100 ~ 199 anrufen.
     * Allruf: Senden Sie ### Gruppenruf TD, um alle Benutzer anzurufen.
 
-  DTMF Empfang:
-    Ablauf:
+    DTMF Empfang:
+      Ablauf:
       Drücken Sie MENU → 43 → DCD ON. Wenn der Code, der empfangen wird, der persönliche DTMF-ID-Code ist, ist die Decodierung erfolgreich, und Sie können innerhalb der Rückstellzeit mit der anderen Partei kommunizieren. Wenn die Rückstellzeit abläuft, müssen Sie erneut decodieren.
 
-    • MENU → 40 → D-HOLD 5S stellt die automatische Rücksetzzeit ein. Der Anfangswert beträgt 5 Sekunden.
-    • MENU → 39 → D-RSP stellt die automatische Reaktion nach Erhalt eines DTMF-Anrufs ein. 
-NULL: Aus, 
-RING: lokaler Klingelton. 
-ANTWORT: Automatischer Rückruf; 
-BEIDE: lokaler Klingelton + automatischer Rückruf.
+      • MENU → 40 → D-HOLD 5S stellt die automatische Rücksetzzeit ein. Der Anfangswert beträgt 5 Sekunden.
+      • MENU → 39 → D-RSP stellt die automatische Reaktion nach Erhalt eines DTMF-Anrufs ein. 
+      > NULL: Aus, 
+      > RING: lokaler Klingelton. 
+      > ANTWORT: Automatischer Rückruf; 
+      > BEIDE: lokaler Klingelton + automatischer Rückruf.
 
   * (6.11-2) PTTID
   Initiative: Sie können den DTMF-Online-Code und den Offline-Code über die Programmsoftware konfigurieren. Wenn der Online-Code und der    Offline-Code aktiviert sind, sendet dieses Funkgerät den Online-Code beim Drücken von PTT und sendet den Offline-Code beim Loslassen von PTT.
