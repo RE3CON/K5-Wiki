@@ -36,6 +36,7 @@ FG12864390-FKFW |   | LCD | FG12864390-FKFW | 12 | Modul |   |   | 128x64 px 
 ST7565P |   | Sitronix ST7565 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565P_Datasheet_V2.3.pdf |   |   |  
 ST7565R |   | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565R_Datasheet_V1.7.pdf |   |   |  
 TY |   | Zenerdiode 20V | BZX84J-C20 TY | 2 |   | NXP |   |   |   |  
+TY |   | Switching Diode | 1SS241 | 2 |   | Toshiba |   |   |   |  
 UD |   | Diode | KDS114E | 2 | SOD-323F | KEC | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/UD_KDS114E_Diode_KEC_Datasheet.pdf |   |   |  
 UW | A | N-Channel Fet | 2SK3078 | 3 | SOT89 | Toshiba | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/UW_2SK3078_Toshiba_Datasheet.pdf |   |   |  
 WA |   | Zenerdiode 1,0V |   | 2 |   | NXP |   | 1,0V |   |  
