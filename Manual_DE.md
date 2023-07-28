@@ -67,7 +67,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Senden Sie nicht, wenn die Antenne nicht installiert ist.
 * Wenn Sie einen schlechten Geruch oder Rauch bemerken, schalten Sie das Radio bitte sofort aus und entfernen Sie den Akku aus dem Radio, dann wenden Sie sich an den Händler.
 
-## Hinweise zur Ladung:
+### Hinweise zur Ladung:
 * Die Batteriepacks sind nicht geladen, wenn sie versendet werden. Bitte vor Gebrauch aufladen.
 * Das erstmalige Aufladen des Batteriepacks nach dem Kauf oder einer längeren Lagerung (länger als 2 Monate) wird nicht dazu führen, dass das Batteriepack seine größte Kapazität oder normale Ladung erreicht. Dies kann erst nach zwei- bis dreimaligem wiederholtem Aufladen und Entladen erreicht werden.
 * Schalten Sie das Radio vor dem Aufladen bitte aus. Bitte benutzen Sie das Radio während des Ladevorgangs nicht, da dies die normale Ladung des Batteriepacks beeinträchtigen und gefährliche Unfälle verursachen kann.
@@ -76,7 +76,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Bitte verwenden Sie ausschließlich das original Batteriepack und Ladegerät. Diese sind bei Ihrem lokalen Händler erhältlich.
 * Wenn Sie Fragen zu einem nicht original Fabrik-Batteriepack oder Zubehör haben, verwenden Sie diese bitte nicht. Andernfalls können gefährliche Unfälle auftreten.
 
-## Hinweis:
+### Hinweis:
 1. Verwenden Sie das Original-Ladegerät zum Aufladen, der Type-C-Ladeanschluss des Geräts ist nur für Notladungen vorgesehen.
 1. Zum Schutz der Umwelt recyceln Sie bitte den Batteriepack.
 1. Entfernen Sie den Akku nicht, wenn Sie Typ-C-Ladung verwenden.
@@ -177,17 +177,15 @@ TX | Übertragung.
 AM | AM Empfangssymbol
 NS | Automatisches Scannen des NOAA-Kanals(National Oceanic and Atmospheric Administration)
 
-##Tasten
+## Tasten
 
-**PTT-Taste (Sendetaste)**
-* Senden / Empfangen Schaltertaste. Drücken Sie "PTT", um zu senden und ins Mikrofon zu sprechen. Lassen Sie "PTT" los, um zu empfangen.
-
-**Programmierbare Funktionstaste und deren Funktion**
-Seitentaste 1: | Kurz drücken, um die Monitor-Funktion einzuschalten.
+**Programmierbare Funktionstaste und deren Funktion** | Grundeinstellung
 -- | --
+PTT-Taste (Sendetaste)| Senden / Empfangen Schaltertaste. Drücken Sie "PTT", um zu senden und ins Mikrofon zu sprechen. Lassen Sie "PTT" los, um zu empfangen.
+Seitentaste 1: | Kurz drücken, um die Monitor-Funktion einzuschalten.
   | Lange drücken, um 1750 Hz einzuschalten.
 Seitentaste 2: | Kurz drücken, um die Jacklight einzuschalten.
   | Lange drücken, um den Notfallalarm einzuschalten.
-Sondermenü: | Schalten Sie das Gerät mit gedrückter „PTT“ und „Seitentaste 1“ein.Sie aktivieren temporär die Menüpunkte 52-57.
+Sondermenü: | Schalten Sie das Gerät mit gedrückter „PTT“ und „Seitentaste 1“ ein. Sie aktivieren temporär die Sonder-Menüpunkte 52-57.
   |  
 
