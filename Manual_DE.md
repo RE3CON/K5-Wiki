@@ -22,7 +22,7 @@ Stand: 2023-Jul-28
 
 > [Tasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tasten)
 
-> [Tastenfeldtasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#tastaturtasten)
+> [Tastaturtasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#tastaturtasten)
 
 [6. Allgemeine Bedienung](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#6-allgemeine-bedienung)
 
