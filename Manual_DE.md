@@ -5,8 +5,8 @@
 
 Inhaltsverzeichnis:
 
-1. FCC FRS / GMRS / Amateur WARNUNG
-1. VORSICHTSMASSNAHMEN VOR DER VERWENDUNG
+[1. FCC FRS / GMRS / Amateur WARNUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#1-fcc-frsgmrsamateur-warnung)
+[1. VORSICHTSMASSNAHMEN VOR DER VERWENDUNG](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#2-vorsichtsmassnahmen-vor-der-verwendung)
 1. Hauptmerkmale
 1. Mitgeliefertes Zubehör
 1. Radio-Diagramm
@@ -147,7 +147,8 @@ Akkuladegerät | 1
 Gürtelclip | 1
 Benutzerhandbuch | 1
 
-
+## 5. Radio Diagram
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/ef99a158-7e42-49bc-9005-cb640839b77a)
 
 ***
 ## LCD-Display
