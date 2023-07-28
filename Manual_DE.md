@@ -315,7 +315,7 @@ SCREN | 57 | On / Off |  
 ***
 
 
-Gemeinsame Bedienungseinführung
+**Gemeinsame Bedienungseinführung**
 
 * (6.1) Passwortschutz beim Einschalten
   * Drehen Sie den "Power/Volume Switch" im Uhrzeigersinn, um dieses Funkgerät einzuschalten. Wenn das Programm eine Passwortschutz beim Einschalten festlegt, zeigt der Bildschirm "LOCK" an. Der Benutzer muss zuerst das Passwort eingeben, bevor das Radio normal verwendet werden kann.
@@ -333,9 +333,13 @@ Gemeinsame Bedienungseinführung
   * Kanalmodus: Zeigt die tatsächliche Kanalnummer an. In diesem Modus können die Benutzer die Kanalnummer manuell eingeben. Oder Sie können die Up/Down-Taste drücken, um den Kanal zu wechseln.
 
 * (6.5) Cross-Band-Empfang/Senden
+
 Die Methode ist: MENU→18→WX, drücken Sie MENU, um die Einstellung aufzurufen
+
 OFF: Hauptkanal-Sendung Wenn CHAN_A oder B einen gültigen Ruf empfängt, wird der Kanal automatisch zum Hauptkanal, bis der Anruf beendet ist.
+
 CHAN_A: Unabhängig davon, welche Kanäle gültige Anrufe empfangen, ist der Standard-TX-Kanal Kanal A und es wird das Zeichen "DW" angezeigt.
+
 CHAN_B: Unabhängig davon, welche Kanäle gültige Anrufe empfangen, ist der Standard-TX-Kanal Kanal B und es wird das Zeichen "DW" angezeigt.
 
 * (6.6) Kanal speichern
