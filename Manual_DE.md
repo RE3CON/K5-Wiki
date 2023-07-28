@@ -459,7 +459,7 @@ Ablauf:
     * F+9 springt sofort zum Ein-Knopf-Anrufkanal, und Sie können den wichtigen Kanal durch MENU→30→1-call als Ein-Knopf-Anrufkanal festlegen.
 
 * (6.19) Empfangen des Flugfunkbands
-    * Geben Sie die Empfangsfrequenz ein. Wenn die örtliche Flugfunkfrequenz nicht klar ist, kann die Scannfunktion den gesamten Frequenzbereich von 108-136 scannen.
+    * Geben Sie die Empfangsfrequenz ein. Wenn die örtliche Flugfunkfrequenz nicht klar ist, kann die Scannfunktion den gesamten Frequenzbereich von 108-136 MHz scannen.
     * Menu→48→AM ON stellt die Kanalmodulationsmethode auf AM ein, um den Flugfunk-Intercom zu hören.
     * Menu→48→AM OFF stellt die Kanalmodulationsmethode auf FM ein.
     * Die Einstellungen von Menu 48 gelten nur für den Frequenzbereich von 108-136.
