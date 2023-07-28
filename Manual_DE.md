@@ -13,9 +13,13 @@ Inhaltsverzeichnis:
 
 [4. Zubehör im Lieferumfang](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#4-zubehör-im-lieferumfang)
 
-[5. Radio-Diagramm](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#5-radio-diagram)
+[5. Geräte-Übersicht](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#5-radio-diagram)
 
-[6. LCD-Display](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#6-lcd-display)
+  [LCD-Display](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#lcd-display)
+
+  [Tasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tasten)
+
+  [Tastenfeldtasten](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#tastenfeldtasten)
 
 1. Allgemeine Bedienungseinführung
 1. Spezifikationen
@@ -157,7 +161,7 @@ Benutzerhandbuch | 1
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/ef99a158-7e42-49bc-9005-cb640839b77a)
 
 ***
-## 6. LCD-Display
+## LCD-Display
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/2755d97a-79cf-4f9c-a0a8-3cee678c9fb9)
 
 Symbol | Description
@@ -208,7 +212,7 @@ VOX Ein / Aus | Erlaubt dem Benutzer die VOX-Funktion ein- oder auszuschalten.
 1750 Hz Übertragung | Schaltet eine kontinuierliche 1750-Hz Ton-Übertragung ein.
 Jack-Licht | Schaltet die Taschenlampe ein oder aus.
 
-**Tastenfeldtasten**
+## Tastenfeldtasten
 * Menü / Bestätigungstaste: MENÜ
   * Auf der Hauptseite kurz drücken, um ins Menü zu gelangen, Menüpunkt auswählen und die MENÜ-Taste drücken, um den Parameter zu bestätigen.
   * Lange drücken, um den letzten Einstellungspunkt aufzurufen.
@@ -251,7 +255,7 @@ F+9 | CALL | Zum Ein-Tasten-Notruf wechseln
 F+* | SCAN / SER | CTCSS/DCS-Suchfunktion starten
 F+0 | FM | FM starten oder beenden
 
-**Menü-Information**
+## Menü-Information
 
 Drücken Sie die Menu-Taste, um das Menü aufzurufen; Drücken Sie die Up/Down-Taste, um die Menünummer auszuwählen, und drücken Sie die MENU-Taste, um die Auswahl zu bestätigen; Drücken Sie die EXIT-Taste, um zum oberen Menü zurückzukehren. Halten Sie die EXIT-Taste gedrückt, um zur Hauptseite zurückzukehren.
 
@@ -322,7 +326,7 @@ SCREN | 57 | On / Off |  
 ***
 
 
-**Gemeinsame Bedienungseinführung**
+** 6. Allgemeine Bedienungseinführung**
 
 * (6.1) Passwortschutz beim Einschalten
   * Drehen Sie den "Power/Volume Switch" im Uhrzeigersinn, um dieses Funkgerät einzuschalten. Wenn das Programm eine Passwortschutz beim Einschalten festlegt, zeigt der Bildschirm "LOCK" an. Der Benutzer muss zuerst das Passwort eingeben, bevor das Radio normal verwendet werden kann.
