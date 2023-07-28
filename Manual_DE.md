@@ -390,9 +390,9 @@ Ablauf:
 
       • MENU → 40 → D-HOLD 5S stellt die automatische Rücksetzzeit ein. Der Anfangswert beträgt 5 Sekunden.
       • MENU → 39 → D-RSP stellt die automatische Reaktion nach Erhalt eines DTMF-Anrufs ein. 
-      > NULL: Aus, 
-      > RING: lokaler Klingelton. 
-      > ANTWORT: Automatischer Rückruf; 
+      > NULL: Aus.<br>
+      > RING: lokaler Klingelton.<br>
+      > ANTWORT: Automatischer Rückruf.<br> 
       > BEIDE: lokaler Klingelton + automatischer Rückruf.
 
   * (6.11-2) PTTID
