@@ -23,9 +23,9 @@
 
 [6. Allgemeine Bedienung](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#6-allgemeine-bedienung)
 
-1. Spezifikationen
-1. Dokumente / Ressourcen
-1. Verwandte Beiträge
+
+***
+
 
 ### 1 FCC FRS/GMRS/Amateur WARNUNG
 
