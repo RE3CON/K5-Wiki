@@ -158,24 +158,23 @@ Symbol | Description
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/edac12b1-eac3-4c60-aca0-52b34f48511a)  | Je kleiner die Anzahl der Gitter, desto schwächer das Signal.
 HML | Anzeige des aktuellen Übertragungsausgangs. Der aktuelle Übertragungsausgang ist hoch (H), mittel (M) oder niedrig (L).
 CT DCS | CT erscheint, wenn der aktuelle Code ein CTCSS-Code ist. DCS erscheint, wenn der aktuelle Code ein DCS-Code ist.
-![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/639f246e-9d2d-416a-87b5-449ba556f751)
- | Voice prompt is on.
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/639f246e-9d2d-416a-87b5-449ba556f751) | Voice prompt is on.
 N | The radio work in narrow band mode.
 VOX | VOX Function. When the sound pressure reaches the set value, the transmission is started. This function can be set through the menu.Wenn der Schalldruck den eingestellten Wert erreicht, wird die Übertragung gestartet. Diese Funktion kann im Menü eingestellt werden.
-  | Es bedeutet, dass die Übertragungsfrequenz der Empfangsfrequenz plus einer Frequenzabweichung entspricht. – Es bedeutet, dass die Übertragungsfrequenz der Empfangsfrequenz minus einer Frequenzabweichung entspricht.
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/43efc859-b2e0-408b-964b-6bf019b58b71)| Es bedeutet, dass die Übertragungsfrequenz der Empfangsfrequenz plus einer Frequenzabweichung entspricht. – Es bedeutet, dass die Übertragungsfrequenz der Empfangsfrequenz minus einer Frequenzabweichung entspricht.
 DTMF | Die Decodierung des DTMF-Signals ist aktiviert.
 DW | Die Frequenzdualüberwachung ist aktiviert. Es können die beiden Frequenzbänder, die auf dem Display angezeigt werden, überwacht werden.
-  | Tastensperre
-  | Anzeige des aktuellen Batteriestands. Wenn die Batterie fast erschöpft ist, wird dies angezeigt. Es bedeutet, dass die Batterie aufgeladen werden muss und das Radio regelmäßig einen Alarmton für niedrige Leistung ausgibt.
-  | Hauptkanal-Anzeige. Wenn Sie mit PTT einen Anruf auf dem Sekundärkanal starten, funktioniert alles auf dem Hauptkanal.
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/d650a1b3-22d9-4f89-af85-4bbb7ef53efe)| Tastensperre
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/f782dff9-668c-4e99-920a-135fd9660566)| Anzeige des aktuellen Batteriestands. Wenn die Batterie fast erschöpft ist, wird dies angezeigt. Es bedeutet, dass die Batterie aufgeladen werden muss und das Radio regelmäßig einen Alarmton für niedrige Leistung ausgibt.
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/e15e9398-741b-4e15-b029-56bc42035860)| Hauptkanal-Anzeige. Wenn Sie mit PTT einen Anruf auf dem Sekundärkanal starten, funktioniert alles auf dem Hauptkanal.
 SCR | Die Sprachverschlüsselung dieses Kanals ist aktiviert.
 R | Reverse-Modus. Empfangs- und Übertragungsfrequenz sind vertauscht.
-  | Scannen. Teilnahme an Scan-Liste 1. Teilnahme an Scan-Liste 2.
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/13c3d529-92ea-4d63-8397-3d12bbb7cf57)![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/0bc92e1e-43b0-41b6-add9-7a865f1926d1)| Scannen. Teilnahme an Scan-Liste 1. Teilnahme an Scan-Liste 2.
 WX | Cross-Band Empfangen / Übertragen.
 RX | Empfangen.
 TX | Übertragung.
-  | Type-C charging mark
-AM | AM receiving mark
+![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c8454e8b-4278-45ec-ba64-1ade540b990f)| Type-C Ladeanzeige
+AM | AM Empfangssymbol
 NS | Automatisches Scannen des NOAA-Kanals(National Oceanic and Atmospheric Administration)
 
 <p style="line-height: 16px; margin-bottom: 0cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-variant-ligatures: normal; font-variant-alternates: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal;"><br></p><p style="line-height: 16px; margin-bottom: 0cm; background: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;"><br></p><h3 class="western" style="margin-top: 0.25cm; margin-bottom: 0.21cm; background: none; break-after: avoid; font-family: Arial, sans-serif; font-size: 14pt; font-weight: bold; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;">Tasten</h3>
