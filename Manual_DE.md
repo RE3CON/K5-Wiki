@@ -12,7 +12,7 @@ Inhaltsverzeichnis:
 [3. Hauptmerkmale](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#hauptmerkmale)
 
 [4. Zubehör im Lieferumfang](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/#4-zubehör-im-lieferumfang)
-https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Manual_DE/_edit#4-zubehör-im-lieferumfang
+
 1. Radio-Diagramm
 1. LCD-Display
 1. Allgemeine Bedienungseinführung
