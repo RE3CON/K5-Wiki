@@ -79,7 +79,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Senden Sie nicht, wenn die Antenne nicht installiert ist.
 * Wenn Sie einen schlechten Geruch oder Rauch bemerken, schalten Sie das Radio bitte sofort aus und entfernen Sie den Akku aus dem Radio, dann wenden Sie sich an den Händler.
 
-### Hinweise zur Ladung:
+### Hinweise zum Aufladen:
 * Die Batteriepacks sind nicht geladen, wenn sie versendet werden. Bitte vor Gebrauch aufladen.
 * Das erstmalige Aufladen des Batteriepacks nach dem Kauf oder einer längeren Lagerung (länger als 2 Monate) wird nicht dazu führen, dass das Batteriepack seine größte Kapazität oder normale Ladung erreicht. Dies kann erst nach zwei- bis dreimaligem wiederholtem Aufladen und Entladen erreicht werden.
 * Schalten Sie das Radio vor dem Aufladen bitte aus. Bitte benutzen Sie das Radio während des Ladevorgangs nicht, da dies die normale Ladung des Batteriepacks beeinträchtigen und gefährliche Unfälle verursachen kann.
