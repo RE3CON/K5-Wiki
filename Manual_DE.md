@@ -471,17 +471,26 @@ Ablauf:
     * FM starten oder beendenWährend des Kopiervorgangs zeigt das LCD den Kopierfortschritt RCV: XX E:XX an. 
 E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang abgeschlossen ist, zeigt der Sender SND: 120 an.
 
-**Abkürzungen:**
-CTCSS
-DCS
-DTMF
-MR  Memory / Speicherplatz
-NOAA
-Output Power (1W=L LOW / 3W=M MID / 5W=H HIGH)
-PTT
-PTT-ID
-RDY
-RX Receive /Empfangen
-TX Transmit / Senden
-VFO
-VOX 
+
+
+**Abkürzungen:** |  
+-- | --
+CTCSS |  
+DCS |  
+DTMF |  
+MR Memory  | Speicherplatz 
+NOAA |  
+Output Power  | Sendeleistung (1W=L LOW / 3W=M MID / 5W=H HIGH)
+PTT |  
+PTT-ID |  
+RDY |  
+RX Receive |  Empfangen 
+TX Transmit  |  Senden
+VFO |  
+VOX |  
+  |  
+  |  
+  |  
+
+
+
