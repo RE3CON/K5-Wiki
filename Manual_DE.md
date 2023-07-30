@@ -108,7 +108,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * CTCSS/DCS
 * Remote Kill/Revive
 * Tastensperre
-* Backlight
+* Flashlight
 * PC programmierbar
 * Besetztkanalsperre
 * VOX (Voice Operated Exchange)
@@ -119,7 +119,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Sprachansage
 * Erinnerungsschalter
 * Multi-Anzeige von Kanalnummer/Kanalfrequenz/Kanalname
-* H (High), M (Medium), L (Low) Ausgangsleistung wählbar
+* H (High) 5W, M (Medium) 3W, L (Low) 1W Ausgangsleistung wählbar
 * Multi-Band-Senden & 50∽600 MHz Empfangen
 * Empfangs-/Übertragungscode getrennt einstellbar
 * Hochleistungsakku/Lange Standby-Zeit
@@ -190,7 +190,7 @@ RX | Empfangen.
 TX | Übertragung.
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c8454e8b-4278-45ec-ba64-1ade540b990f)| Type-C Ladeanzeige
 AM | AM Empfangssymbol
-NS | Automatisches Scannen des NOAA-Kanals(National Oceanic and Atmospheric Administration)
+NS | Automatisches Scannen des NOAA-Kanals (National Oceanic and Atmospheric Administration) Stoppt bei Empfang eines 1050Hz Tones.
 
 ## Tasten
 
@@ -444,7 +444,8 @@ Ablauf:
 
 * (6.15) Notfall-Wetterkanal-Empfang
     * Drücken Sie F+5, um den NOAA Weather Alert zu aktivieren oder zu deaktivieren.
-    * Dieses Radio kann 10 NOAA-Kanäle empfangen.
+    * Dieses Radio kann 10 NOAA-Kanäle empfangen und nach Empfang des 1050 Hz Tones
+      welcher jeder Ansage vorraus geht den Lautsprecher nach blinken der LED altivieren.
     * Dieser Modus kann über das Menü 49 NOAA_S eingestellt werden.
 
 * (6.16) Tastensperre
