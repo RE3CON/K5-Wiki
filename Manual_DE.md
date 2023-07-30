@@ -116,7 +116,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Time-Out-Timer
 * Zurücksetzen
 * Großes LCD-Display
-* Sprachansage
+* Sprachansage Englisch/Chinesisch
 * Erinnerungsschalter
 * Multi-Anzeige von Kanalnummer/Kanalfrequenz/Kanalname
 * H (High) 5W, M (Medium) 3W, L (Low) 1W Ausgangsleistung wählbar
@@ -190,7 +190,7 @@ RX | Empfangen.
 TX | Übertragung.
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c8454e8b-4278-45ec-ba64-1ade540b990f)| Type-C Ladeanzeige
 AM | AM Empfangssymbol
-NS | Automatisches Scannen des NOAA-Kanals (National Oceanic and Atmospheric Administration) Stoppt bei Empfang eines 1050Hz Tones.
+NS | Automatisches Scannen der NOAA-Kanäle (National Oceanic and Atmospheric Administration) Stoppt bei Empfang eines 1050Hz Tones.
 
 ## Tasten
 
@@ -213,7 +213,7 @@ FM UKW Radio | Ein- oder Ausschalten des FM-Radio-Modus.
 Scan Ein / Aus | Erlaubt dem Benutzer die Scanfunktion ein- oder auszuschalten.
 VOX Ein / Aus | Erlaubt dem Benutzer die VOX-Funktion ein- oder auszuschalten.
 1750 Hz Übertragung | Schaltet eine kontinuierliche 1750-Hz Ton-Übertragung ein.
-Jack-Licht | Schaltet die Taschenlampe ein oder aus.
+Flash-Light | Schaltet die Taschenlampe ein oder aus.
 
 ## Tastaturtasten
 * Menü / Bestätigungstaste: MENÜ
@@ -312,16 +312,16 @@ D-LIST | 44 | DTMF Contact List (Choose the contact by Up/Down Key and Number Ke
 PONMSG | 45 | Displays of Power On (FULL: full screen display, MSG: Welcome info, VOL: Voltage. It can modify it by program software.) | 0-2
 ROGER | 46 | Reminding of End Talk (OFF: no reminding, ROGER: with reminding, MDC: Frog Sound Tail Tone) | 0-2
 VOL | 47 | Battery Voltage | 0-1
-AM | 48 | AM Channel Mode On/Off (Used only for 108-136 MHz) | 0-1
+AM | 48 | AM Mode On/Off (Used only for 108-136 MHz) | 0-1
 NOAA_S | 49 | NOAA Channel Auto Scan On/Off |  
 DEL_CH | 50 | Channel Delete (Choose the channel by Up/Down Key and Number Key, press MENU key to delete the channel.) |  
 RESET | 51 | Reset (VFO: Reset parameter beside channel parameter; ALL: Reset all parameter.) | 0-1
 350TX | 52 | On / Off |  
-F_Lock | 53 | On / Off |  
-200TX | 54 | On / Off |  
-500TX | 55 | On / Off |  
-350EN | 56 | On / Off |  
-SCREN | 57 | On / Off |  
+F_Lock | 53 | Frequenz Lock On / Off / CE / FCC / GB |  
+200TX | 54 | 200MHz Band TX On / Off |  
+500TX | 55 | 500MHz Bamd TX On / Off |  
+350EN | 56 | 350MHz Band Enable On / Off |  
+SCREN | 57 | Scrambler On / Off |  
   |   |   |  
 
 ***
@@ -444,8 +444,8 @@ Ablauf:
 
 * (6.15) Notfall-Wetterkanal-Empfang
     * Drücken Sie F+5, um den NOAA Weather Alert zu aktivieren oder zu deaktivieren.
-    * Dieses Radio kann 10 NOAA-Kanäle empfangen und nach Empfang des 1050 Hz Tones
-      welcher jeder Ansage vorraus geht den Lautsprecher nach blinken der LED altivieren.
+    * Dieses Radio kann 10 NOAA-Kanäle empfangen und bei Empfang des 1050 Hz Tones
+      der jeder Ansage vorraus geht den Lautsprecher aktivieren nach blinken der RX LED.
     * Dieser Modus kann über das Menü 49 NOAA_S eingestellt werden.
 
 * (6.16) Tastensperre
