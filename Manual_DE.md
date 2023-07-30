@@ -317,11 +317,11 @@ NOAA_S | 49 | NOAA Channel Auto Scan | On/Off
 DEL_CH | 50 | Channel Delete (Choose the channel by Up/Down Key and Number Key, press MENU key to delete the channel.) |  
 RESET | 51 | Reset (VFO: Reset parameter beside channel parameter; ALL: Reset all parameter.) | 0-1
 350TX | 52 | 350MHz Band TX | On/Off  
-F_Lock | 53 | Frequenz Lock | On/Off/FCC/GB/430/438 
+F_Lock | 53 | Frequenz Lock | On/Off/FCC/CE/GB/430/438 
 200TX | 54 | 200MHz Band TX | On/Off
 500TX | 55 | 500MHz Band TX | On/Off  
 350EN | 56 | 350MHz Band Enable | On/Off  
-SCREN | 57 | Scrambler | On/Off  
+SCREN | 57 | Scrambler Enable | On/Off  
   |   |   |  
 
 ***
