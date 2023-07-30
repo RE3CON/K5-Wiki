@@ -6,6 +6,8 @@ I have collected information about the amateur radio from various sources (Teleg
 I would like to thank everyone who works on this "project".
 I try to name sources as possible, but often I can't assign who was diligent. Comments and additions are welcome.
 
-[NEW Group for Discussions opened](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/discussions)
+## [Links to many people working on the UV-K5](https://github.com/ludwich66/Quansheng_UV-K5_Wiki)
 
-[**Links to many people working on the UV-K5**](https://github.com/ludwich66/Quansheng_UV-K5_Wiki)
+## News & History
+* 2023-07-30 Rod, welcome on board! I appreciate your support with the English manual.
+* [2023-07-30 NEW Group for Discussions opened](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/discussions)
