@@ -299,9 +299,9 @@ S-LIST | 31 | Channel Scan List Select (LIST 1: Scan list 1; LIST 2: Scan list 2
 SLIST1 | 32 | Channel Scan List 1 Configuration |  
 SLIST2 | 33 | Channel Scan List 2 Configuration |  
 AL-MOD | 34 | Alarm Mode(SITE: local alarm; TONE: Distant + local alarm) | 0-1
-ANI-ID | 35 | ANI-ID, DTMF communication radio ID |  
-UPCODE | 36 | DTMF UP CODE |  
-DWCODE | 37 | DTMF DOWN CODE |  
+ANI-ID | 35 | ANI-ID, DTMF communication radio ID | 102 (default) 
+UPCODE | 36 | DTMF UP CODE | 123
+DWCODE | 37 | DTMF DOWN CODE | 456
 D-ST | 38 | DTMF Side Tone Switch (OFF, ON） | 0-1
 D-RSP | 39 | DTMF Decoding Response (NULL: Close, Ring: Local ringing, REPLY: reply response, both: local ringing +reply response) | 0-3
 D-HOLD | 40 | DTMF Auto Reset Time (5s-60s） | 5-60
@@ -313,7 +313,7 @@ PONMSG | 45 | Displays of Power On (FULL: full screen display, MSG: Welcome info
 ROGER | 46 | Reminding of End Talk (OFF: no reminding, ROGER: with reminding, MDC: Frog Sound Tail Tone) | 0-2
 VOL | 47 | Battery Voltage | 0-1
 AM | 48 | AM Mode On/Off (Used only for 108-136 MHz) | 0-1
-NOAA_S | 49 | NOAA Channel Auto Scan / On/Off
+NOAA_S | 49 | NOAA Channel Auto Scan | On/Off
 DEL_CH | 50 | Channel Delete (Choose the channel by Up/Down Key and Number Key, press MENU key to delete the channel.) |  
 RESET | 51 | Reset (VFO: Reset parameter beside channel parameter; ALL: Reset all parameter.) | 0-1
 350TX | 52 | 350MHz Band TX | On/Off  
