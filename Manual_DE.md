@@ -108,7 +108,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * CTCSS/DCS
 * Remote Kill/Revive
 * Tastensperre
-* Jacklight
+* Backlight
 * PC programmierbar
 * Besetztkanalsperre
 * VOX (Voice Operated Exchange)
@@ -124,7 +124,7 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 * Empfangs-/Übertragungscode getrennt einstellbar
 * Hochleistungsakku/Lange Standby-Zeit
 * Schnelles Kopieren eines Kanals
-* 10 Notfall-Wetterkanäle
+* 10 Notfall-Wetterkanäle NOAA mit 1050Hz Ton-Squelch und Scanning
 * Passwortschutz beim Einschalten
 * AM/FM Flugfunkempfang
 * Umgekehrte Frequenzfunktion
