@@ -155,11 +155,16 @@ Packen Sie das tragbare Radio vorsichtig aus. Wir empfehlen, dass Sie die folgen
 Artikel | Menge
 -- | --
 Tragbares Radio | 1
-Antenne (Connector Typ R-SMA female) | 1
+VHF 2m / UHF 70cm Dualband Antenne (Connector Typ R-SMA female) | 1
 Li-Ionen-Akku Model: BPK5 DC7.2V 1600mAh 11.52Wh | 1
 Akkuladegerät | 1
 Gürtelclip | 1
+Trageschlaufe | 1
 Benutzerhandbuch | 1
+
+Option:
+Headset | 1
+USB C Kabel | 1
 
 ## 5. Radio Diagram
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/ef99a158-7e42-49bc-9005-cb640839b77a)
@@ -479,17 +484,17 @@ E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang a
 -- | --
 CTCSS | [(Continuous Tone-Coded Squelch System)](https://de.m.wikipedia.org/wiki/CTCSS) Subton-Squelch-Verfahren
 DCS | [Digital Coded Squelch](https://en.m.wikipedia.org/wiki/Squelch#DCS)
-DTMF | [(Dual-tone multi-frequency signaling)](https://de.m.wikipedia.org/wiki/Mehrfrequenzwahlverfahren) Mehrfrequenzwahlverfahren (MFV)
+DTMF | [(Dual-Tone Multi-Frequency signaling)](https://de.m.wikipedia.org/wiki/Mehrfrequenzwahlverfahren) Mehrfrequenzwahlverfahren (MFV)
 MR Memory  | Kanal Speicherplatz 
-NOAA |  10 US National Wetter Kanäle mit Ton Squelch der ein 1050 Hz Ton am Anfang der Sendung vorraussetzt zum aktivieren des Lautsprechers.
+NOAA |  US National Wetter (10) Kanäle mit Ton Squelch der ein 1050 Hz Ton am Anfang der Sendung vorraussetzt zum aktivieren des Lautsprechers.
 Output Power  | Sendeleistung (1W=L LOW / 3W=M MID / 5W=H HIGH)
 PTT |  Push To Talk (Sendetaste)
-PTT-ID |  Geraete ID als DTMF Code bei PTT
-RDY | Ready Bereit
+PTT-ID |  Geräte ID als DTMF Code bei PTT
+RDY | Ready Bereit/Fertig
 RX Receive |  Empfangen 
 TX Transmit  |  Senden
 VFO |  Frequenz Modus
-VOX |  automatische PTT Steuerung mit Level Empfindlichkeit des Mikrofons
+VOX |  automatische PTT Steuerung des Mikrofons
   |  
   |  
   |  
