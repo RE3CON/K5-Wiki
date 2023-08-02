@@ -155,8 +155,8 @@ Packen Sie das tragbare Radio vorsichtig aus. Wir empfehlen, dass Sie die folgen
 Artikel | Menge
 -- | --
 Tragbares Radio | 1
-Antenne (Connectortyp R-SMA female) | 1
-Li-Ionen-AkkuModel: BPK5 DC7.2V 1600mAh 11.52Wh | 1
+Antenne (Connector Typ R-SMA female) | 1
+Li-Ionen-Akku Model: BPK5 DC7.2V 1600mAh 11.52Wh | 1
 Akkuladegerät | 1
 Gürtelclip | 1
 Benutzerhandbuch | 1
@@ -190,7 +190,7 @@ RX | Empfangen.
 TX | Übertragung.
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c8454e8b-4278-45ec-ba64-1ade540b990f)| Type-C Ladeanzeige
 AM | AM Empfangssymbol
-NS | Automatisches Scannen der NOAA-Kanäle (National Oceanic and Atmospheric Administration) Stoppt bei Empfang eines 1050Hz Tones.
+NS | Automatisches Scannen der NOAA-Kanäle (National Oceanic and Atmospheric Administration) Stoppt bei Empfang eines 1050Hz Tones und gibt die anschliessende Meldung wieder.
 
 ## Tasten
 
