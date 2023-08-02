@@ -321,7 +321,7 @@ F_Lock | 53 | Frequenz Lock | On/Off/FCC/CE/GB/430/438 
 200TX | 54 | 200MHz Band TX | On/Off
 500TX | 55 | 500MHz Band TX | On/Off  
 350EN | 56 | 350MHz Band Enable | On/Off  
-SCREN | 57 | Scrambler Enable | On/Off  
+SCREN | 57 | Scrambler Enable | On/Off
   |   |   |  
 
 ***
@@ -479,11 +479,11 @@ E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang a
 CTCSS |  
 DCS |  
 DTMF |  
-MR Memory  | Speicherplatz 
-NOAA |  US National Wetter Kanaele mit Ton Squelch der ein 1050 Hz Ton am Anfang der Sendung vorraussetzt zum aktivieren des Lautaprechers.
+MR Memory  | Kanal Speicherplatz 
+NOAA |  10 US National Wetter Kanäle mit Ton Squelch der ein 1050 Hz Ton am Anfang der Sendung vorraussetzt zum aktivieren des Lautsprechers.
 Output Power  | Sendeleistung (1W=L LOW / 3W=M MID / 5W=H HIGH)
 PTT |  Push To Talk (Sendetaste)
-PTT-ID |  Geraete ID in DTMF bei PTT
+PTT-ID |  Geraete ID als DTMF Code bei PTT
 RDY |  
 RX Receive |  Empfangen 
 TX Transmit  |  Senden
