@@ -431,7 +431,7 @@ Ablauf:
     * Prozess: Drücken Sie MENU → 34 → AL-MOD TONE, um einen Alarmton auszulösen und ein Fernalarmsignal zu senden.
     * Prozess: Drücken Sie MENU → 34 → Al-MOD SITE, um einen Alarmton auszulösen.
 
-* (6.14) FM-Radio
+* (6.14) FM-Radio UKW
     * Drücken Sie F + 0, um in den UKW FM-Radio-Modus zu gelangen. Verwenden Sie die Auf- / Ab-Tasten, um die Frequenz oder die voreingestellten FM-Kanäle zu ändern. Sie können auch die Tastatur verwenden, um die FM-Frequenz oder voreingestellte FM-Kanäle einzugeben.
     * Drücken Sie F + 1, um zwischen VFO- und MR-Modus zu wechseln.
     * Drücken Sie F + 2, um den automatischen FM-Radio-Suchprozess zu starten. Dieser Prozess speichert automatisch die gesuchten FM-Kanäle, bis zu 20 FM-Kanäle können gespeichert werden.
@@ -470,7 +470,7 @@ Ablauf:
 * (6.20) Wireless Radio Replikation
     * Halten Sie die PTT + Seitentaste 2 gedrückt, um in die Schnittstelle für die Wireless Radio Replikation zu gelangen. Das LCD zeigt Air Copy (RDY) an. Sowohl das sendende Radio als auch das empfangende Radio können die digitale Tastatur verwenden, um die Frequenz der drahtlosen Replikation einzustellen. Die Frequenz des sendenden Radios und des empfangenden Radios müssen übereinstimmen. Die voreingestellte Empfangs-/Sendefrequenz beträgt 410,0125 MHz.
     * Drücken Sie die EXIT-Taste des Empfangsradios, um in den Empfangsmodus zu gelangen, und das LCD zeigt Air Copy an. Drücken Sie die MENU-Taste des Senderradios, um mit der Übertragung der Frequenzdaten zu beginnen. Und das LCD zeigt Air Copy an.
-    * FM starten oder beenden. Während des Kopiervorgangs zeigt das LCD den Kopierfortschritt RCV: XX E:XX an. 
+    Während des Kopiervorgangs zeigt das LCD den Kopierfortschritt RCV: XX E:XX an. 
 E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang abgeschlossen ist, zeigt der Sender SND: 120 an.
 
 
@@ -478,14 +478,14 @@ E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang a
 **Abkürzungen:** |  
 -- | --
 CTCSS | [(Continuous Tone-Coded Squelch System)](https://de.m.wikipedia.org/wiki/CTCSS) Subton-Squelch-Verfahren
-DCS |  
-DTMF |  
+DCS | [Digital Coded Squelch](https://en.m.wikipedia.org/wiki/Squelch#DCS)
+DTMF | [(Dual-tone multi-frequency signaling)](https://de.m.wikipedia.org/wiki/Mehrfrequenzwahlverfahren) Mehrfrequenzwahlverfahren (MFV)
 MR Memory  | Kanal Speicherplatz 
 NOAA |  10 US National Wetter Kanäle mit Ton Squelch der ein 1050 Hz Ton am Anfang der Sendung vorraussetzt zum aktivieren des Lautsprechers.
 Output Power  | Sendeleistung (1W=L LOW / 3W=M MID / 5W=H HIGH)
 PTT |  Push To Talk (Sendetaste)
 PTT-ID |  Geraete ID als DTMF Code bei PTT
-RDY |  
+RDY | Ready Bereit
 RX Receive |  Empfangen 
 TX Transmit  |  Senden
 VFO |  Frequenz Modus
