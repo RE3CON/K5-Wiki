@@ -408,7 +408,7 @@ Ablauf:
       > BEIDE: lokaler Klingelton + automatischer Rückruf.
 
   * (6.11-2) PTTID
-  Initiative: Sie können den DTMF-Online-Code und den Offline-Code über die Programmsoftware konfigurieren. Wenn der Online-Code und der    Offline-Code aktiviert sind, sendet dieses Funkgerät den Online-Code beim Drücken von PTT und sendet den Offline-Code beim Loslassen von PTT.
+  Initiative: Sie können den DTMF-Online-Code und den Offline-Code über die Programmsoftware konfigurieren. Wenn der Online-Code und der Offline-Code aktiviert sind, sendet dieses Funkgerät den Online-Code beim Drücken von PTT und sendet den Offline-Code beim Loslassen von PTT.
 
 * (6.12) Scannen
   Starten des Scannens:
@@ -432,7 +432,7 @@ Ablauf:
     * Prozess: Drücken Sie MENU → 34 → Al-MOD SITE, um einen Alarmton auszulösen.
 
 * (6.14) FM-Radio
-    * Drücken Sie F + 0, um in den FM-Radio-Modus zu gelangen. Verwenden Sie die Auf- / Ab-Tasten, um die Frequenz oder die voreingestellten FM-Kanäle zu ändern. Sie können auch die Tastatur verwenden, um die FM-Frequenz oder voreingestellte FM-Kanäle einzugeben.
+    * Drücken Sie F + 0, um in den UKW FM-Radio-Modus zu gelangen. Verwenden Sie die Auf- / Ab-Tasten, um die Frequenz oder die voreingestellten FM-Kanäle zu ändern. Sie können auch die Tastatur verwenden, um die FM-Frequenz oder voreingestellte FM-Kanäle einzugeben.
     * Drücken Sie F + 1, um zwischen VFO- und MR-Modus zu wechseln.
     * Drücken Sie F + 2, um den automatischen FM-Radio-Suchprozess zu starten. Dieser Prozess speichert automatisch die gesuchten FM-Kanäle, bis zu 20 FM-Kanäle können gespeichert werden.
     * Drücken Sie F + 3, um den manuellen FM-Kanal-Suchprozess zu starten. In diesem Prozess müssen die Benutzer die gesuchten FM-Kanäle manuell speichern.
@@ -446,7 +446,8 @@ Ablauf:
     * Drücken Sie F+5, um den NOAA Weather Alert zu aktivieren oder zu deaktivieren.
     * Dieses Radio kann 10 NOAA-Kanäle empfangen und bei Empfang des 1050 Hz Tones
       der jeder Ansage vorraus geht den Lautsprecher aktivieren nach blinken der RX LED.
-    * Dieser Modus kann über das Menü 49 NOAA_S eingestellt werden.
+    * Der NOAA 10 Kanal Scan Modus kann über das Menü 49 NOAA_S ein oder ausgeschalten
+      werden.
 
 * (6.16) Tastensperre
     * Halten Sie die #-Taste gedrückt, um alle Tasten der Tastatur zu sperren oder zu entsperren. Die Seitentasten können während der Tastensperre normal verwendet werden.
@@ -488,7 +489,7 @@ RDY |  
 RX Receive |  Empfangen 
 TX Transmit  |  Senden
 VFO |  Frequenz Modus
-VOX |  automatische PTT Steuerung mit Level Empfindlichkeit
+VOX |  automatische PTT Steuerung mit Level Empfindlichkeit des Mikrofons
   |  
   |  
   |  
