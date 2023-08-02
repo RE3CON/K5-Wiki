@@ -246,17 +246,17 @@ Flash-Light | Schaltet die Taschenlampe ein oder aus.
 
 Schnelltasten | Funktion | Funktionsbeschreibung
 -- | -- | --
-F+1 | BAND | (F1-F7) Frequenzumschalter
-F+2 | A/B | Hauptkanalumschalter
-F+3 | VFO/MR | Umschalten zwischen VFO(Frequenz)- und (Memory) MR-Modus
+F+1 | BAND | (F1-F7) Frequenzbandumschalter
+F+2 | A/B | Hauptkanalumschalter zwischen obigen und unteren Sendeempfaenger
+F+3 | VFO/MR | Umschalten zwischen VFO (Frequenz) und (Memory Kanal) MR-Modus
 F+4 | FC /Frequency Meter | Sendefrequenz und CTC-Freq. eines sendenden Geräts ermitteln
 F+5 | NOAA Weather Alert | NOAA-Kanal starten oder beenden
-F+6 | H/M/L | Ausgangsleistung umschalten High / Middle / Low
-F+7 | VOX | Zu VOX umschalten
+F+6 | H/M/L | Ausgangsleistung umschalten High 5W / Middle 3W / Low 1,5W
+F+7 | VOX | Zur VOX PTT Steuerung umschalten
 F+8 | R | Zur Rückwärtsfunktion wechseln
 F+9 | CALL | Zum Ein-Tasten-Notruf wechseln
-F+* | SCAN / SER | CTCSS/DCS-Suchfunktion starten
-F+0 | FM | FM starten oder beenden
+F+* | SCAN / SER | Frequenscounter und CTCSS/DCS-Suchfunktion starten
+F+0 | FM | UKW Radio starten oder beenden
 
 ## Menü-Information
 
@@ -469,7 +469,7 @@ Ablauf:
 * (6.20) Wireless Radio Replikation
     * Halten Sie die PTT + Seitentaste 2 gedrückt, um in die Schnittstelle für die Wireless Radio Replikation zu gelangen. Das LCD zeigt Air Copy (RDY) an. Sowohl das sendende Radio als auch das empfangende Radio können die digitale Tastatur verwenden, um die Frequenz der drahtlosen Replikation einzustellen. Die Frequenz des sendenden Radios und des empfangenden Radios müssen übereinstimmen. Die voreingestellte Empfangs-/Sendefrequenz beträgt 410,0125 MHz.
     * Drücken Sie die EXIT-Taste des Empfangsradios, um in den Empfangsmodus zu gelangen, und das LCD zeigt Air Copy an. Drücken Sie die MENU-Taste des Senderradios, um mit der Übertragung der Frequenzdaten zu beginnen. Und das LCD zeigt Air Copy an.
-    * FM starten oder beendenWährend des Kopiervorgangs zeigt das LCD den Kopierfortschritt RCV: XX E:XX an. 
+    * FM starten oder beenden. Während des Kopiervorgangs zeigt das LCD den Kopierfortschritt RCV: XX E:XX an. 
 E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang abgeschlossen ist, zeigt der Sender SND: 120 an.
 
 
@@ -480,15 +480,15 @@ CTCSS |  
 DCS |  
 DTMF |  
 MR Memory  | Speicherplatz 
-NOAA |  
+NOAA |  US National Wetter Kanaele mit Ton Squelch der ein 1050 Hz Ton am Anfang der Sendung vorraussetzt zum aktivieren des Lautaprechers.
 Output Power  | Sendeleistung (1W=L LOW / 3W=M MID / 5W=H HIGH)
-PTT |  
-PTT-ID |  
+PTT |  Push To Talk (Sendetaste)
+PTT-ID |  Geraete ID in DTMF bei PTT
 RDY |  
 RX Receive |  Empfangen 
 TX Transmit  |  Senden
-VFO |  
-VOX |  
+VFO |  Frequenz Modus
+VOX |  automatische PTT Steuerung mit Level Empfindlichkeit
   |  
   |  
   |  
