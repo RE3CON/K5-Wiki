@@ -477,7 +477,7 @@ E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang a
 
 **Abkürzungen:** |  
 -- | --
-CTCSS |  
+CTCSS | [(Continuous Tone-Coded Squelch System)](https://de.m.wikipedia.org/wiki/CTCSS) Subton-Squelch-Verfahren
 DCS |  
 DTMF |  
 MR Memory  | Kanal Speicherplatz 
