@@ -11,6 +11,35 @@
 * [sq5bpf - uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering)
 * [fagci - qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder)
 * [piotr022 - UV_K5_playground - first attempts to prepare build and debug environment](https://github.com/piotr022/UV_K5_playground)
+* [UVMOD RX-TX Onlime Firmware Patcher](https://re3con.github.io/uvmod/) *feature work*
+* [UVMOD EU limits to RX patches only by whosmatt](https://github.com/whosmatt/uvmod)
+* [中文版 Open Chinese Version (maintained independently)](https://uvmod.xanyi.eu.org/)
+* [UVMOD in russian language project](https://uvmod.valek.net.ru/)
+* [Discussion forum 4PDA](https://4pda.to/forum/index.php?showtopic=1071343&st=0)
+
+## Introduction
+
+Web-based client-side Quansheng firmware patcher written in Javascript and HTML using [Bootstrap 4.6.0](https://getbootstrap.com/docs/4.6/getting-started/introduction/), jQuery and parts of the [SB Admin 2 Theme](https://startbootstrap.com/theme/sb-admin-2).  
+It is based on the discoveries by the many contributors in the [uvmod-kitchen](https://github.com/amnemonic/Quansheng_UV-K5_Firmware/tree/main/uvmod_kitchen) and implements the **same functionality** not limited to RX only but also TX in a modular and flexible javascript structure. This is an enhanced UVMOD from whosmatt src.
+
+Visitors can generate a patched firmware image by selecting the desired patches. Patches modify the firmware on a binary level and can accept user input to customize variables. A custom base image can be supplied to allow support for mods that are compiled and linked directly into the firmware. 
+
+## Mod development
+
+Clone this repository and execute `python3 -m http.server` or `python -m http.server` in the root directory for an instant local web server, allowing easy testing.  
+Mods are defined in [mods.js](mods.js), with an example mod to outline the pattern.  
+Also __refer to the helper functions and documentation in__ [modframework.js](js/modframework.js).  
+
+The supported format for binary data is in the format of a hex string __without separators__. You can use find and replace to remove all `\x` from a regular hex string or directly export the correct format from a bytes object in python using `print(''.join('%02x'%i for i in BYTES_OBJECT))`.
+
+## **Comming soon** 
+Offline universal firmware version patcher
+based on search and replace pattern to change and modificate with precission the functions of these patches direct on all firmware versions and upcoming versions files.<br>
+
+I'll take in account EU Country block on DNS domain cause of different law regulations in whosmatt location. 
+
+*Credits and many thanks to whosmatt!*
+
 * [agocsdaniel - opensheng](https://github.com/agocsdaniel/opensheng)
   <Br><Br>
 * [Telegram Channel - EN](https://t.me/quansheng_uvk5_en)
