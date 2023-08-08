@@ -11,7 +11,7 @@
 * [sq5bpf - uvk5-reverse-engineering](https://github.com/sq5bpf/uvk5-reverse-engineering)
 * [fagci - qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder)
 * [piotr022 - UV_K5_playground - first attempts to prepare build and debug environment](https://github.com/piotr022/UV_K5_playground)
-* [UVMOD RX-TX Onlime Firmware Patcher](https://re3con.github.io/uvmod/) *feature work*
+* [UVMOD RX-TX Online Firmware Patcher](https://re3con.github.io/uvmod/) *feature work*
 * [UVMOD EU limits to RX patches only by whosmatt](https://github.com/whosmatt/uvmod)
 * [中文版 Open Chinese Version (maintained independently)](https://uvmod.xanyi.eu.org/)
 * [UVMOD in russian language project](https://uvmod.valek.net.ru/)
