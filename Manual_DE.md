@@ -162,7 +162,8 @@ Gürtelclip | 1
 Trageschlaufe | 1
 Benutzerhandbuch | 1
 
-Option:
+**Option:**
+Artikel | Menge
 Headset | 1
 USB C Kabel | 1
 
