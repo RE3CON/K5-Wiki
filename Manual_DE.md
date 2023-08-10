@@ -163,7 +163,9 @@ Trageschlaufe | 1
 Benutzerhandbuch | 1
 
 **Option:**
+
 Artikel | Menge
+-- | --
 Headset | 1
 USB C Kabel | 1
 
