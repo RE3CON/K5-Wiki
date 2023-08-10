@@ -198,7 +198,7 @@ RX | Empfangen.
 TX | Übertragung.
 ![image](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c8454e8b-4278-45ec-ba64-1ade540b990f)| Type-C Ladeanzeige
 AM | AM Empfangssymbol
-NS | Automatisches Scannen der NOAA-Kanäle (National Oceanic and Atmospheric Administration) Stoppt bei Empfang eines 1050Hz Tones und gibt die anschliessende Meldung wieder.
+NS | Automatisches Scannen der NOAA-Kanäle (National Oceanic and Atmospheric Administration) Wettermeldungen. Stoppt bei Empfang eines 1050Hz Tones und gibt die anschliessende Meldung wieder.
 
 ## Tasten
 
@@ -295,7 +295,7 @@ BEEP | 19 | BEEP Control (OFF, ON) | 0-1
 TOT | 20 | Time-Out-Timer (1-10min) | 1-10
 VOICE | 21 | Voice Prompt (OFF, CHI: Chinese, ENG: English) | 0-2
 SC-REV | 22 | Scan Resume Mode (TO: Resume scan after 5 seconds` pause; CO: Resume scan after signal disappear; SE: After receive the signal, stop scan.) | 0-2
-MDF | 23 | Channel Display Mode(FREQ: Display frequency, CH: Display channel No., NAME: Display channel name) | 0-2
+MDF | 23 | Channel Display Mode (FREQ: Display frequency, CH: Display channel No., NAME: Display channel name) | 0-2
 AUTOLK | 24 | Auto Keypad Lock (OFF,ON） | 0-1
 S-ADD1 | 25 | Whether to participate in list 1 scanning (OFF: not participating, ON: participation) | 0-1
 S-ADD2 | 26 | Whether to participate in list 2 scanning (OFF: not participating, ON: participation) | 0-1
@@ -485,20 +485,21 @@ E:XX gibt die Anzahl der Fehler der kopierten Daten an. Wenn der Kopiervorgang a
 
 **Abkürzungen:** |  
 -- | --
+A/B | Hauptkanal Ebenenumschalter wechselt zwischen obigen und unteren Sendeempfaenger. Rel. mit TDR Dual-Watch.
 CTCSS | [(Continuous Tone-Coded Squelch System)](https://de.m.wikipedia.org/wiki/CTCSS) Subton-Squelch-Verfahren
 DCS | [Digital Coded Squelch](https://en.m.wikipedia.org/wiki/Squelch#DCS)
 DTMF | [(Dual-Tone Multi-Frequency signaling)](https://de.m.wikipedia.org/wiki/Mehrfrequenzwahlverfahren) Mehrfrequenzwahlverfahren (MFV)
 MR Memory  | Kanal Speicherplatz 
 NOAA |  US National Wetter (10) Kanäle mit Ton Squelch der ein 1050 Hz Ton am Anfang der Sendung vorraussetzt zum aktivieren des Lautsprechers.
-Output Power  | Sendeleistung (1W=L LOW / 3W=M MID / 5W=H HIGH)
+Output Power (TX PWR) | Sendeleistung (1,5W=L LOW / 3W=M MID / 5W=H HIGH)
 PTT |  Push To Talk (Sendetaste)
 PTT-ID |  Geräte ID als DTMF Code bei PTT
-RDY | Ready Bereit/Fertig
+RDY | (Ready) Bereit/Fertig
 RX Receive |  Empfangen 
 TX Transmit  |  Senden
 VFO |  Frequenz Modus
 VOX |  automatische PTT Steuerung des Mikrofons
-  |  
+VOL |  Akku Ladezustand in Volt
   |  
   |  
 
