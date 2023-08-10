@@ -150,14 +150,14 @@ Dieses Radio verfügt über eine hervorragende Konstruktion und die neueste fort
 
 Packen Sie das tragbare Radio vorsichtig aus. Wir empfehlen, dass Sie die folgenden Artikel überprüfen, bevor Sie das Verpackungsmaterial wegwerfen.
 
-**Standardzubehör**
+**Standardzubehör:**
 
 Artikel | Menge
 -- | --
 Tragbares Radio | 1
 VHF 2m / UHF 70cm Dualband Antenne (Connector Typ R-SMA female) | 1
 Li-Ionen-Akku Model: BPK5 DC7.2V 1600mAh 11.52Wh | 1
-Akkuladegerät | 1
+Akkuladegerät (Ladeschale m. integr. 110-240V DC 8.4V 500mA Netzteil)| 1
 Gürtelclip | 1
 Trageschlaufe | 1
 Benutzerhandbuch | 1
@@ -166,7 +166,7 @@ Benutzerhandbuch | 1
 
 Artikel | Menge
 -- | --
-Headset | 1
+Headset (K-Type Connector) | 1
 USB C Kabel | 1
 
 ## 5. Radio Diagram
