@@ -1,4 +1,4 @@
-# [Go to Basepage of Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)
+# [Go to Basepage of Quansheng UV-K5 Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)
 
 # [<img width="200" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/19823838-7a3f-4ba4-b943-df7f01d16527">](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)
 
@@ -12,7 +12,6 @@
 * [fagci - qs-uvk5-firmware-modder](https://github.com/fagci/qs-uvk5-firmware-modder)
 * [piotr022 - UV_K5_playground - first attempts to prepare build and debug environment](https://github.com/piotr022/UV_K5_playground) <br>
 * [UVMOD RX-TX Online Firmware Patcher](https://re3con.github.io/uvmod/) *feature work*
-* [UVMOD EU limits to RX patches only by whosmatt](https://github.com/whosmatt/uvmod)
 * [中文版 Open Chinese Version (maintained independently)](https://uvmod.xanyi.eu.org/)
 * [UVMOD in russian language project](https://uvmod.valek.net.ru/)
 * [Discussion forum 4PDA](https://4pda.to/forum/index.php?showtopic=1071343&st=0)
